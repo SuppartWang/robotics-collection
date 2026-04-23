@@ -1,0 +1,705 @@
+{
+  "projects": {
+    "71583602": {
+      "repo_id": 71583602,
+      "full_name": "Developer-Y/cs-video-courses",
+      "name": "cs-video-courses",
+      "owner": "Developer-Y",
+      "html_url": "https://github.com/Developer-Y/cs-video-courses",
+      "description": "List of Computer Science courses with video lectures.",
+      "stars": 80445,
+      "forks": 11100,
+      "open_issues": 3,
+      "language": null,
+      "topics": [
+        "algorithms",
+        "bioinformatics",
+        "computational-biology",
+        "computational-physics",
+        "computer-architecture",
+        "computer-science",
+        "computer-vision",
+        "database-systems",
+        "databases",
+        "deep-learning",
+        "embedded-systems",
+        "machine-learning",
+        "quantum-computing",
+        "reinforcement-learning",
+        "robotics",
+        "security",
+        "systems",
+        "web-development"
+      ],
+      "created_at": "2016-10-21T17:02:11Z",
+      "updated_at": "2026-04-23T11:58:54Z",
+      "pushed_at": "2026-04-12T17:54:53Z",
+      "license": null,
+      "homepage": "",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {},
+      "activity_score": 70.0,
+      "key_sentences": [
+        "List of Computer Science courses with video lectures."
+      ],
+      "category": {
+        "category_id": "tools_sim",
+        "category_name": "🔧 工具/仿真平台",
+        "confidence": 0.4,
+        "matched_keywords": [
+          "ROS"
+        ]
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "74627617": {
+      "repo_id": 74627617,
+      "full_name": "commaai/openpilot",
+      "name": "openpilot",
+      "owner": "commaai",
+      "html_url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "stars": 60699,
+      "forks": 10855,
+      "open_issues": 165,
+      "language": "Python",
+      "topics": [
+        "advanced-driver-assistance-systems",
+        "driver-assistance-systems",
+        "robotics"
+      ],
+      "created_at": "2016-11-24T01:33:30Z",
+      "updated_at": "2026-04-23T11:50:44Z",
+      "pushed_at": "2026-04-23T09:39:10Z",
+      "license": "MIT",
+      "homepage": "https://comma.ai/openpilot",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {},
+      "activity_score": 85.0,
+      "key_sentences": [
+        "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
+      ],
+      "category": {
+        "category_id": "home_edu",
+        "category_name": "🏠 家用/教育机器人",
+        "confidence": 0.2,
+        "matched_keywords": [
+          "stem"
+        ]
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "280567579": {
+      "repo_id": 280567579,
+      "full_name": "NaiboWang/EasySpider",
+      "name": "EasySpider",
+      "owner": "NaiboWang",
+      "html_url": "https://github.com/NaiboWang/EasySpider",
+      "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
+      "stars": 43726,
+      "forks": 5322,
+      "open_issues": 266,
+      "language": "JavaScript",
+      "topics": [
+        "batch-processing",
+        "batch-script",
+        "code-free",
+        "crawler",
+        "data-collection",
+        "frontend",
+        "gui",
+        "html",
+        "input-parameters",
+        "layman",
+        "parameters",
+        "robotics",
+        "rpa",
+        "scraper",
+        "spider",
+        "visual",
+        "visualization",
+        "visualprogramming",
+        "web",
+        "www"
+      ],
+      "created_at": "2020-07-18T02:41:27Z",
+      "updated_at": "2026-04-23T11:53:16Z",
+      "pushed_at": "2026-04-22T13:59:44Z",
+      "license": "AGPL-3.0",
+      "homepage": "https://www.easyspider.net",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {
+        "control": [
+          "PID"
+        ]
+      },
+      "activity_score": 85.0,
+      "key_sentences": [
+        "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。"
+      ],
+      "category": {
+        "category_id": "home_edu",
+        "category_name": "🏠 家用/教育机器人",
+        "confidence": 0.2,
+        "matched_keywords": [
+          "stem"
+        ]
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "54376220": {
+      "repo_id": 54376220,
+      "full_name": "AtsushiSakai/PythonRobotics",
+      "name": "PythonRobotics",
+      "owner": "AtsushiSakai",
+      "html_url": "https://github.com/AtsushiSakai/PythonRobotics",
+      "description": "Python sample codes and textbook for robotics algorithms.",
+      "stars": 29233,
+      "forks": 7254,
+      "open_issues": 35,
+      "language": "Python",
+      "topics": [
+        "algorithm",
+        "animation",
+        "autonomous-driving",
+        "autonomous-navigation",
+        "autonomous-vehicles",
+        "control",
+        "cvxpy",
+        "ekf",
+        "hacktoberfest",
+        "localization",
+        "mapping",
+        "path-planning",
+        "python",
+        "robot",
+        "robotics",
+        "slam"
+      ],
+      "created_at": "2016-03-21T09:34:43Z",
+      "updated_at": "2026-04-23T12:11:45Z",
+      "pushed_at": "2026-04-20T21:59:55Z",
+      "license": "NOASSERTION",
+      "homepage": "https://atsushisakai.github.io/PythonRobotics/",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {},
+      "activity_score": 80.0,
+      "key_sentences": [
+        "Python sample codes and textbook for robotics algorithms."
+      ],
+      "category": {
+        "category_id": "ai_brain",
+        "category_name": "🧠 AI / 机器人大脑",
+        "confidence": 0.6,
+        "matched_keywords": [
+          "navigation",
+          "SLAM"
+        ]
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "712225112": {
+      "repo_id": 712225112,
+      "full_name": "Genesis-Embodied-AI/Genesis",
+      "name": "Genesis",
+      "owner": "Genesis-Embodied-AI",
+      "html_url": "https://github.com/Genesis-Embodied-AI/Genesis",
+      "description": "A generative world for general-purpose robotics & embodied AI learning.",
+      "stars": 28565,
+      "forks": 2674,
+      "open_issues": 116,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2023-10-31T03:33:11Z",
+      "updated_at": "2026-04-23T11:15:45Z",
+      "pushed_at": "2026-04-22T07:00:40Z",
+      "license": "Apache-2.0",
+      "homepage": "https://genesis-world.readthedocs.io",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {},
+      "activity_score": 85.0,
+      "key_sentences": [
+        "A generative world for general-purpose robotics & embodied AI learning."
+      ],
+      "category": {
+        "category_id": "fallback",
+        "category_name": "📦 其他",
+        "confidence": 0.0,
+        "matched_keywords": []
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "748713144": {
+      "repo_id": 748713144,
+      "full_name": "huggingface/lerobot",
+      "name": "lerobot",
+      "owner": "huggingface",
+      "html_url": "https://github.com/huggingface/lerobot",
+      "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+      "stars": 23490,
+      "forks": 4329,
+      "open_issues": 648,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2024-01-26T15:50:41Z",
+      "updated_at": "2026-04-23T11:47:53Z",
+      "pushed_at": "2026-04-23T12:48:30Z",
+      "license": "Apache-2.0",
+      "homepage": "https://huggingface.co/docs/lerobot",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {},
+      "activity_score": 85.0,
+      "key_sentences": [
+        "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning"
+      ],
+      "category": {
+        "category_id": "fallback",
+        "category_name": "📦 其他",
+        "confidence": 0.0,
+        "matched_keywords": []
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "57602001": {
+      "repo_id": 57602001,
+      "full_name": "wechaty/wechaty",
+      "name": "wechaty",
+      "owner": "wechaty",
+      "html_url": "https://github.com/wechaty/wechaty",
+      "description": "Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt",
+      "stars": 22693,
+      "forks": 2808,
+      "open_issues": 198,
+      "language": "TypeScript",
+      "topics": [
+        "bot",
+        "chatbot",
+        "conversational-ai",
+        "framework",
+        "qq",
+        "robotics",
+        "wechat",
+        "wechaty",
+        "whatsapp"
+      ],
+      "created_at": "2016-05-01T14:36:45Z",
+      "updated_at": "2026-04-23T09:03:57Z",
+      "pushed_at": "2025-12-21T19:49:52Z",
+      "license": "Apache-2.0",
+      "homepage": "https://wechaty.js.org",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {},
+      "activity_score": 70.0,
+      "key_sentences": [
+        "Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt"
+      ],
+      "category": {
+        "category_id": "tools_sim",
+        "category_name": "🔧 工具/仿真平台",
+        "confidence": 0.4,
+        "matched_keywords": [
+          "framework"
+        ]
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "2278524": {
+      "repo_id": 2278524,
+      "full_name": "hubotio/hubot",
+      "name": "hubot",
+      "owner": "hubotio",
+      "html_url": "https://github.com/hubotio/hubot",
+      "description": "A customizable life embetterment robot.",
+      "stars": 16782,
+      "forks": 3719,
+      "open_issues": 6,
+      "language": "JavaScript",
+      "topics": [
+        "bot",
+        "chat",
+        "hubot"
+      ],
+      "created_at": "2011-08-27T08:30:59Z",
+      "updated_at": "2026-04-21T09:37:16Z",
+      "pushed_at": "2026-03-30T15:31:31Z",
+      "license": "MIT",
+      "homepage": "https://hubotio.github.io/hubot/",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {},
+      "activity_score": 70.0,
+      "key_sentences": [
+        "A customizable life embetterment robot."
+      ],
+      "category": {
+        "category_id": "fallback",
+        "category_name": "📦 其他",
+        "confidence": 0.0,
+        "matched_keywords": []
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "365250183": {
+      "repo_id": 365250183,
+      "full_name": "zauberzeug/nicegui",
+      "name": "nicegui",
+      "owner": "zauberzeug",
+      "html_url": "https://github.com/zauberzeug/nicegui",
+      "description": "Create web-based user interfaces with Python. The nice way.",
+      "stars": 15701,
+      "forks": 912,
+      "open_issues": 49,
+      "language": "Python",
+      "topics": [
+        "frontend",
+        "gui",
+        "interaction",
+        "interface",
+        "interfaces",
+        "python",
+        "robotics",
+        "scripting",
+        "toolkit",
+        "webapp",
+        "website"
+      ],
+      "created_at": "2021-05-07T13:55:05Z",
+      "updated_at": "2026-04-23T10:41:08Z",
+      "pushed_at": "2026-04-23T10:41:06Z",
+      "license": "MIT",
+      "homepage": "https://nicegui.io",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {},
+      "activity_score": 75.0,
+      "key_sentences": [
+        "Create web-based user interfaces with Python. The nice way."
+      ],
+      "category": {
+        "category_id": "fallback",
+        "category_name": "📦 其他",
+        "confidence": 0.0,
+        "matched_keywords": []
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "7512484": {
+      "repo_id": 7512484,
+      "full_name": "ArduPilot/ardupilot",
+      "name": "ardupilot",
+      "owner": "ArduPilot",
+      "html_url": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+      "stars": 14929,
+      "forks": 20686,
+      "open_issues": 2940,
+      "language": "C++",
+      "topics": [
+        "arducopter",
+        "ardupilot",
+        "arduplane",
+        "ardurover",
+        "ardusub",
+        "autopilot",
+        "auv",
+        "copter",
+        "drone",
+        "dronekit",
+        "mavlink",
+        "plane",
+        "robotics",
+        "ros",
+        "rov",
+        "rover",
+        "sub",
+        "uas",
+        "uav",
+        "ugv"
+      ],
+      "created_at": "2013-01-09T00:58:52Z",
+      "updated_at": "2026-04-23T11:31:54Z",
+      "pushed_at": "2026-04-23T02:17:23Z",
+      "license": "GPL-3.0",
+      "homepage": "http://ardupilot.org/",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {
+        "ros": [
+          "ROS",
+          "ros"
+        ]
+      },
+      "activity_score": 85.0,
+      "key_sentences": [
+        "ArduPlane, ArduCopter, ArduRover, ArduSub source"
+      ],
+      "category": {
+        "category_id": "mobile",
+        "category_name": "🚗 移动机器人/自动驾驶",
+        "confidence": 0.8,
+        "matched_keywords": [
+          "drone",
+          "UGV"
+        ]
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "1605598": {
+      "repo_id": 1605598,
+      "full_name": "bulletphysics/bullet3",
+      "name": "bullet3",
+      "owner": "bulletphysics",
+      "html_url": "https://github.com/bulletphysics/bullet3",
+      "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
+      "stars": 14421,
+      "forks": 3067,
+      "open_issues": 414,
+      "language": "C++",
+      "topics": [
+        "computer-animation",
+        "game-development",
+        "kinematics",
+        "pybullet",
+        "reinforcement-learning",
+        "robotics",
+        "simulation",
+        "simulator",
+        "virtual-reality"
+      ],
+      "created_at": "2011-04-12T18:45:08Z",
+      "updated_at": "2026-04-23T00:26:43Z",
+      "pushed_at": "2025-10-22T02:13:14Z",
+      "license": "NOASSERTION",
+      "homepage": "http://bulletphysics.org",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {
+        "simulation": [
+          "PyBullet"
+        ]
+      },
+      "activity_score": 65.0,
+      "key_sentences": [
+        "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc."
+      ],
+      "category": {
+        "category_id": "tools_sim",
+        "category_name": "🔧 工具/仿真平台",
+        "confidence": 0.8,
+        "matched_keywords": [
+          "simulator",
+          "simulation"
+        ]
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "400501136": {
+      "repo_id": 400501136,
+      "full_name": "google-deepmind/mujoco",
+      "name": "mujoco",
+      "owner": "google-deepmind",
+      "html_url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "stars": 13168,
+      "forks": 1461,
+      "open_issues": 327,
+      "language": "C++",
+      "topics": [
+        "mujoco",
+        "physics",
+        "robotics"
+      ],
+      "created_at": "2021-08-27T12:25:48Z",
+      "updated_at": "2026-04-23T12:32:31Z",
+      "pushed_at": "2026-04-23T10:24:21Z",
+      "license": "Apache-2.0",
+      "homepage": "https://mujoco.org",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {
+        "simulation": [
+          "Mujoco"
+        ]
+      },
+      "activity_score": 85.0,
+      "key_sentences": [
+        "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+      ],
+      "category": {
+        "category_id": "tools_sim",
+        "category_name": "🔧 工具/仿真平台",
+        "confidence": 0.6,
+        "matched_keywords": [
+          "simulator",
+          "mujoco"
+        ]
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "261372860": {
+      "repo_id": 261372860,
+      "full_name": "DLR-RM/stable-baselines3",
+      "name": "stable-baselines3",
+      "owner": "DLR-RM",
+      "html_url": "https://github.com/DLR-RM/stable-baselines3",
+      "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
+      "stars": 13142,
+      "forks": 2109,
+      "open_issues": 78,
+      "language": "Python",
+      "topics": [
+        "baselines",
+        "gsde",
+        "gym",
+        "machine-learning",
+        "openai",
+        "python",
+        "pytorch",
+        "reinforcement-learning",
+        "reinforcement-learning-algorithms",
+        "robotics",
+        "sb3",
+        "sde",
+        "stable-baselines",
+        "toolbox"
+      ],
+      "created_at": "2020-05-05T05:52:26Z",
+      "updated_at": "2026-04-23T08:43:23Z",
+      "pushed_at": "2026-04-19T20:19:27Z",
+      "license": "MIT",
+      "homepage": "https://stable-baselines3.readthedocs.io",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {
+        "ml_framework": [
+          "PyTorch"
+        ]
+      },
+      "activity_score": 85.0,
+      "key_sentences": [
+        "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms."
+      ],
+      "category": {
+        "category_id": "ai_brain",
+        "category_name": "🧠 AI / 机器人大脑",
+        "confidence": 0.4,
+        "matched_keywords": [
+          "reinforcement learning"
+        ]
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "801867971": {
+      "repo_id": 801867971,
+      "full_name": "TianxingChen/Embodied-AI-Guide",
+      "name": "Embodied-AI-Guide",
+      "owner": "TianxingChen",
+      "html_url": "https://github.com/TianxingChen/Embodied-AI-Guide",
+      "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
+      "stars": 13140,
+      "forks": 846,
+      "open_issues": 0,
+      "language": null,
+      "topics": [
+        "embodied",
+        "embodied-ai",
+        "guide",
+        "robot",
+        "robotic",
+        "robotics",
+        "tutorial"
+      ],
+      "created_at": "2024-05-17T04:29:13Z",
+      "updated_at": "2026-04-23T12:42:31Z",
+      "pushed_at": "2026-03-12T18:57:02Z",
+      "license": "NOASSERTION",
+      "homepage": "https://github.com/TianxingChen/Embodied-AI-Guide",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {},
+      "activity_score": 55.0,
+      "key_sentences": [
+        "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide"
+      ],
+      "category": {
+        "category_id": "fallback",
+        "category_name": "📦 其他",
+        "confidence": 0.0,
+        "matched_keywords": []
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    },
+    "23515024": {
+      "repo_id": 23515024,
+      "full_name": "octalmage/robotjs",
+      "name": "robotjs",
+      "owner": "octalmage",
+      "html_url": "https://github.com/octalmage/robotjs",
+      "description": "Node.js Desktop Automation. ",
+      "stars": 12728,
+      "forks": 993,
+      "open_issues": 12,
+      "language": "C",
+      "topics": [],
+      "created_at": "2014-08-31T14:13:47Z",
+      "updated_at": "2026-04-23T09:48:41Z",
+      "pushed_at": "2026-04-15T18:49:53Z",
+      "license": "MIT",
+      "homepage": "http://robotjs.dev",
+      "readme_length": 0,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {},
+      "activity_score": 70.0,
+      "key_sentences": [
+        "Node.js Desktop Automation."
+      ],
+      "category": {
+        "category_id": "fallback",
+        "category_name": "📦 其他",
+        "confidence": 0.0,
+        "matched_keywords": []
+      },
+      "first_seen": "2026-04-23T10:22:05.552047",
+      "last_seen": "2026-04-23T12:49:13.529130"
+    }
+  },
+  "last_updated": "2026-04-23 12:49 UTC",
+  "theme_id": "robotics",
+  "project_count": 15
+}
