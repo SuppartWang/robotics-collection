@@ -7,7 +7,7 @@
       "owner": "Developer-Y",
       "html_url": "https://github.com/Developer-Y/cs-video-courses",
       "description": "List of Computer Science courses with video lectures.",
-      "stars": 81667,
+      "stars": 81681,
       "forks": 11297,
       "open_issues": 2,
       "language": null,
@@ -32,7 +32,7 @@
         "web-development"
       ],
       "created_at": "2016-10-21T17:02:11Z",
-      "updated_at": "2026-05-31T23:56:15Z",
+      "updated_at": "2026-06-02T01:46:16Z",
       "pushed_at": "2026-05-10T19:22:40Z",
       "license": null,
       "homepage": "",
@@ -53,7 +53,7 @@
         ]
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "74627617": {
       "repo_id": 74627617,
@@ -62,9 +62,9 @@
       "owner": "commaai",
       "html_url": "https://github.com/commaai/openpilot",
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "stars": 61230,
+      "stars": 61237,
       "forks": 10950,
-      "open_issues": 157,
+      "open_issues": 159,
       "language": "Python",
       "topics": [
         "advanced-driver-assistance-systems",
@@ -72,8 +72,8 @@
         "robotics"
       ],
       "created_at": "2016-11-24T01:33:30Z",
-      "updated_at": "2026-06-01T01:51:20Z",
-      "pushed_at": "2026-05-31T22:24:30Z",
+      "updated_at": "2026-06-02T02:00:07Z",
+      "pushed_at": "2026-06-02T02:04:23Z",
       "license": "MIT",
       "homepage": "https://comma.ai/openpilot",
       "readme_length": 0,
@@ -93,7 +93,7 @@
         ]
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "280567579": {
       "repo_id": 280567579,
@@ -102,8 +102,8 @@
       "owner": "NaiboWang",
       "html_url": "https://github.com/NaiboWang/EasySpider",
       "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
-      "stars": 43905,
-      "forks": 5336,
+      "stars": 43907,
+      "forks": 5337,
       "open_issues": 266,
       "language": "JavaScript",
       "topics": [
@@ -129,7 +129,7 @@
         "www"
       ],
       "created_at": "2020-07-18T02:41:27Z",
-      "updated_at": "2026-06-01T02:01:58Z",
+      "updated_at": "2026-06-01T19:39:20Z",
       "pushed_at": "2026-05-22T11:59:59Z",
       "license": "AGPL-3.0",
       "homepage": "https://www.easyspider.net",
@@ -154,7 +154,7 @@
         ]
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "54376220": {
       "repo_id": 54376220,
@@ -163,8 +163,8 @@
       "owner": "AtsushiSakai",
       "html_url": "https://github.com/AtsushiSakai/PythonRobotics",
       "description": "Python sample codes and textbook for robotics algorithms.",
-      "stars": 29654,
-      "forks": 7306,
+      "stars": 29660,
+      "forks": 7308,
       "open_issues": 39,
       "language": "Python",
       "topics": [
@@ -186,7 +186,7 @@
         "slam"
       ],
       "created_at": "2016-03-21T09:34:43Z",
-      "updated_at": "2026-05-31T18:47:27Z",
+      "updated_at": "2026-06-02T01:50:11Z",
       "pushed_at": "2026-05-26T01:32:25Z",
       "license": "NOASSERTION",
       "homepage": "https://atsushisakai.github.io/PythonRobotics/",
@@ -194,7 +194,7 @@
       "has_installation_guide": false,
       "has_demo": false,
       "detected_tech": {},
-      "activity_score": 80.0,
+      "activity_score": 75.0,
       "key_sentences": [
         "Python sample codes and textbook for robotics algorithms."
       ],
@@ -208,7 +208,7 @@
         ]
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "712225112": {
       "repo_id": 712225112,
@@ -217,14 +217,14 @@
       "owner": "Genesis-Embodied-AI",
       "html_url": "https://github.com/Genesis-Embodied-AI/Genesis",
       "description": "A generative world for general-purpose robotics & embodied AI learning.",
-      "stars": 29115,
-      "forks": 2752,
-      "open_issues": 127,
+      "stars": 29154,
+      "forks": 2758,
+      "open_issues": 125,
       "language": "Python",
       "topics": [],
       "created_at": "2023-10-31T03:33:11Z",
-      "updated_at": "2026-06-01T02:01:43Z",
-      "pushed_at": "2026-05-30T08:14:13Z",
+      "updated_at": "2026-06-02T01:42:18Z",
+      "pushed_at": "2026-06-01T17:58:14Z",
       "license": "Apache-2.0",
       "homepage": "https://genesis-world.readthedocs.io",
       "readme_length": 0,
@@ -244,7 +244,7 @@
         ]
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "748713144": {
       "repo_id": 748713144,
@@ -253,14 +253,14 @@
       "owner": "huggingface",
       "html_url": "https://github.com/huggingface/lerobot",
       "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
-      "stars": 24534,
-      "forks": 4680,
-      "open_issues": 752,
+      "stars": 24573,
+      "forks": 4686,
+      "open_issues": 758,
       "language": "Python",
       "topics": [],
       "created_at": "2024-01-26T15:50:41Z",
-      "updated_at": "2026-06-01T01:58:28Z",
-      "pushed_at": "2026-05-31T20:35:29Z",
+      "updated_at": "2026-06-02T01:46:41Z",
+      "pushed_at": "2026-06-01T14:48:49Z",
       "license": "Apache-2.0",
       "homepage": "https://huggingface.co/docs/lerobot",
       "readme_length": 0,
@@ -278,7 +278,7 @@
         "matched_keywords": []
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "57602001": {
       "repo_id": 57602001,
@@ -287,8 +287,8 @@
       "owner": "wechaty",
       "html_url": "https://github.com/wechaty/wechaty",
       "description": "Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt",
-      "stars": 22805,
-      "forks": 2813,
+      "stars": 22812,
+      "forks": 2812,
       "open_issues": 198,
       "language": "TypeScript",
       "topics": [
@@ -303,7 +303,7 @@
         "whatsapp"
       ],
       "created_at": "2016-05-01T14:36:45Z",
-      "updated_at": "2026-05-31T17:35:11Z",
+      "updated_at": "2026-06-02T01:38:42Z",
       "pushed_at": "2025-12-21T19:49:52Z",
       "license": "Apache-2.0",
       "homepage": "https://wechaty.js.org",
@@ -324,7 +324,7 @@
         ]
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "2278524": {
       "repo_id": 2278524,
@@ -362,7 +362,7 @@
         "matched_keywords": []
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "365250183": {
       "repo_id": 365250183,
@@ -371,9 +371,9 @@
       "owner": "zauberzeug",
       "html_url": "https://github.com/zauberzeug/nicegui",
       "description": "Create web-based user interfaces with Python. The nice way.",
-      "stars": 15875,
+      "stars": 15880,
       "forks": 923,
-      "open_issues": 63,
+      "open_issues": 65,
       "language": "Python",
       "topics": [
         "frontend",
@@ -389,7 +389,7 @@
         "website"
       ],
       "created_at": "2021-05-07T13:55:05Z",
-      "updated_at": "2026-05-31T21:42:21Z",
+      "updated_at": "2026-06-02T01:41:53Z",
       "pushed_at": "2026-05-28T08:57:33Z",
       "license": "MIT",
       "homepage": "https://nicegui.io",
@@ -408,7 +408,7 @@
         "matched_keywords": []
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "7512484": {
       "repo_id": 7512484,
@@ -417,9 +417,9 @@
       "owner": "ArduPilot",
       "html_url": "https://github.com/ArduPilot/ardupilot",
       "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-      "stars": 15190,
-      "forks": 20843,
-      "open_issues": 2998,
+      "stars": 15199,
+      "forks": 20854,
+      "open_issues": 2991,
       "language": "C++",
       "topics": [
         "arducopter",
@@ -444,8 +444,8 @@
         "ugv"
       ],
       "created_at": "2013-01-09T00:58:52Z",
-      "updated_at": "2026-06-01T01:13:51Z",
-      "pushed_at": "2026-06-01T01:13:31Z",
+      "updated_at": "2026-06-02T01:56:27Z",
+      "pushed_at": "2026-06-02T01:11:33Z",
       "license": "GPL-3.0",
       "homepage": "http://ardupilot.org/",
       "readme_length": 0,
@@ -471,7 +471,7 @@
         ]
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1605598": {
       "repo_id": 1605598,
@@ -480,7 +480,7 @@
       "owner": "bulletphysics",
       "html_url": "https://github.com/bulletphysics/bullet3",
       "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
-      "stars": 14511,
+      "stars": 14513,
       "forks": 3072,
       "open_issues": 416,
       "language": "C++",
@@ -496,7 +496,7 @@
         "virtual-reality"
       ],
       "created_at": "2011-04-12T18:45:08Z",
-      "updated_at": "2026-05-31T22:15:07Z",
+      "updated_at": "2026-06-01T17:07:35Z",
       "pushed_at": "2025-10-22T02:13:14Z",
       "license": "NOASSERTION",
       "homepage": "http://bulletphysics.org",
@@ -517,12 +517,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.8,
         "matched_keywords": [
-          "simulation",
-          "simulator"
+          "simulator",
+          "simulation"
         ]
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "801867971": {
       "repo_id": 801867971,
@@ -531,7 +531,7 @@
       "owner": "TianxingChen",
       "html_url": "https://github.com/TianxingChen/Embodied-AI-Guide",
       "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
-      "stars": 13992,
+      "stars": 14016,
       "forks": 901,
       "open_issues": 0,
       "language": null,
@@ -545,7 +545,7 @@
         "tutorial"
       ],
       "created_at": "2024-05-17T04:29:13Z",
-      "updated_at": "2026-06-01T01:23:39Z",
+      "updated_at": "2026-06-01T21:41:59Z",
       "pushed_at": "2026-03-12T18:57:02Z",
       "license": "NOASSERTION",
       "homepage": "https://github.com/TianxingChen/Embodied-AI-Guide",
@@ -564,7 +564,7 @@
         "matched_keywords": []
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "400501136": {
       "repo_id": 400501136,
@@ -573,8 +573,8 @@
       "owner": "google-deepmind",
       "html_url": "https://github.com/google-deepmind/mujoco",
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "stars": 13693,
-      "forks": 1538,
+      "stars": 13705,
+      "forks": 1543,
       "open_issues": 348,
       "language": "C++",
       "topics": [
@@ -583,8 +583,8 @@
         "robotics"
       ],
       "created_at": "2021-08-27T12:25:48Z",
-      "updated_at": "2026-06-01T01:39:28Z",
-      "pushed_at": "2026-05-31T17:36:29Z",
+      "updated_at": "2026-06-02T02:07:40Z",
+      "pushed_at": "2026-06-01T19:18:28Z",
       "license": "Apache-2.0",
       "homepage": "https://mujoco.org",
       "readme_length": 0,
@@ -609,7 +609,7 @@
         ]
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "261372860": {
       "repo_id": 261372860,
@@ -618,7 +618,7 @@
       "owner": "DLR-RM",
       "html_url": "https://github.com/DLR-RM/stable-baselines3",
       "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
-      "stars": 13352,
+      "stars": 13357,
       "forks": 2141,
       "open_issues": 84,
       "language": "Python",
@@ -639,7 +639,7 @@
         "toolbox"
       ],
       "created_at": "2020-05-05T05:52:26Z",
-      "updated_at": "2026-05-31T15:53:21Z",
+      "updated_at": "2026-06-01T18:22:39Z",
       "pushed_at": "2026-05-11T15:36:50Z",
       "license": "MIT",
       "homepage": "https://stable-baselines3.readthedocs.io",
@@ -664,7 +664,7 @@
         ]
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "23515024": {
       "repo_id": 23515024,
@@ -698,7 +698,7 @@
         "matched_keywords": []
       },
       "first_seen": "2026-04-23T10:22:05.552047",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "21273155": {
       "repo_id": 21273155,
@@ -707,8 +707,8 @@
       "owner": "robotframework",
       "html_url": "https://github.com/robotframework/robotframework",
       "description": "Generic automation framework for acceptance testing and RPA",
-      "stars": 11670,
-      "forks": 2548,
+      "stars": 11671,
+      "forks": 2549,
       "open_issues": 291,
       "language": "Python",
       "topics": [
@@ -722,7 +722,7 @@
         "testing"
       ],
       "created_at": "2014-06-27T11:10:38Z",
-      "updated_at": "2026-05-31T22:52:11Z",
+      "updated_at": "2026-06-01T13:53:05Z",
       "pushed_at": "2026-05-26T14:14:07Z",
       "license": "Apache-2.0",
       "homepage": "http://robotframework.org",
@@ -744,8 +744,8 @@
           "framework"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "145693916": {
       "repo_id": 145693916,
@@ -754,9 +754,9 @@
       "owner": "kornia",
       "html_url": "https://github.com/kornia/kornia",
       "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "stars": 11221,
+      "stars": 11222,
       "forks": 1182,
-      "open_issues": 66,
+      "open_issues": 65,
       "language": "Python",
       "topics": [
         "artificial-intelligence",
@@ -772,8 +772,8 @@
         "spatial-ai"
       ],
       "created_at": "2018-08-22T10:31:37Z",
-      "updated_at": "2026-05-31T10:15:40Z",
-      "pushed_at": "2026-05-31T06:01:07Z",
+      "updated_at": "2026-06-01T08:52:07Z",
+      "pushed_at": "2026-06-01T20:35:34Z",
       "license": "Apache-2.0",
       "homepage": "https://kornia.readthedocs.io",
       "readme_length": 19254,
@@ -798,8 +798,8 @@
           "computer vision"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "479289739": {
       "repo_id": 479289739,
@@ -808,9 +808,9 @@
       "owner": "rerun-io",
       "html_url": "https://github.com/rerun-io/rerun",
       "description": "Visualize, query, and stream to train on multimodal robotics data.",
-      "stars": 10870,
+      "stars": 10874,
       "forks": 752,
-      "open_issues": 1351,
+      "open_issues": 1330,
       "language": "Rust",
       "topics": [
         "computer-vision",
@@ -822,11 +822,11 @@
         "visualization"
       ],
       "created_at": "2022-04-08T07:30:05Z",
-      "updated_at": "2026-06-01T02:05:03Z",
-      "pushed_at": "2026-05-30T18:46:33Z",
+      "updated_at": "2026-06-01T17:15:13Z",
+      "pushed_at": "2026-06-01T17:14:00Z",
       "license": "Apache-2.0",
       "homepage": "https://rerun.io/",
-      "readme_length": 11819,
+      "readme_length": 11821,
       "has_installation_guide": true,
       "has_demo": true,
       "detected_tech": {},
@@ -834,7 +834,7 @@
       "key_sentences": [
         "Visualize, query, and stream to train on multimodal robotics data.",
         "<a href=\"https://www.rerun.io/\">",
-        "<img width=\"1000\" height=\"200\" alt=\"Banner with Rerun logo\" src=\"https://github.com/user-attachments/assets/6ff3b296-3631-4971-a2f3-45b60588966d\" />"
+        "<img width=\"1000\" height=\"200\" alt=\"Banner with Rerun logo\" src=\"https://static.rerun.io/d0f5443d4803cac65c73fcc064936c09f5e7f208_rerun_banner.png\" />"
       ],
       "category": {
         "category_id": "fallback",
@@ -842,8 +842,8 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "69269563": {
       "repo_id": 69269563,
@@ -852,7 +852,7 @@
       "owner": "go-vgo",
       "html_url": "https://github.com/go-vgo/robotgo",
       "description": "RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar",
-      "stars": 10715,
+      "stars": 10716,
       "forks": 953,
       "open_issues": 135,
       "language": "Go",
@@ -874,7 +874,7 @@
         "window"
       ],
       "created_at": "2016-09-26T16:26:56Z",
-      "updated_at": "2026-05-29T19:31:51Z",
+      "updated_at": "2026-06-01T08:16:58Z",
       "pushed_at": "2026-04-17T22:55:49Z",
       "license": "Apache-2.0",
       "homepage": "https://atomai.cc",
@@ -898,8 +898,8 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "27703983": {
       "repo_id": 27703983,
@@ -908,7 +908,7 @@
       "owner": "StockSharp",
       "html_url": "https://github.com/StockSharp/StockSharp",
       "description": "Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).",
-      "stars": 10023,
+      "stars": 10031,
       "forks": 2156,
       "open_issues": 10,
       "language": "C#",
@@ -935,8 +935,8 @@
         "trading-strategies"
       ],
       "created_at": "2014-12-08T07:53:44Z",
-      "updated_at": "2026-05-31T22:20:34Z",
-      "pushed_at": "2026-05-31T21:30:51Z",
+      "updated_at": "2026-06-02T01:25:27Z",
+      "pushed_at": "2026-06-01T20:18:47Z",
       "license": "Apache-2.0",
       "homepage": "https://stocksharp.com",
       "readme_length": 21316,
@@ -955,8 +955,8 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "12996196": {
       "repo_id": 12996196,
@@ -965,7 +965,7 @@
       "owner": "hybridgroup",
       "html_url": "https://github.com/hybridgroup/gobot",
       "description": "Golang framework for robotics, drones, and the Internet of Things (IoT)",
-      "stars": 9419,
+      "stars": 9420,
       "forks": 1060,
       "open_issues": 98,
       "language": "Go",
@@ -992,7 +992,7 @@
         "uav"
       ],
       "created_at": "2013-09-21T14:09:19Z",
-      "updated_at": "2026-05-31T11:49:08Z",
+      "updated_at": "2026-06-01T11:10:05Z",
       "pushed_at": "2026-01-07T16:21:45Z",
       "license": "NOASSERTION",
       "homepage": "https://gobot.io",
@@ -1001,8 +1001,8 @@
       "has_demo": false,
       "detected_tech": {
         "hardware": [
-          "Raspberry Pi",
-          "Arduino"
+          "Arduino",
+          "Raspberry Pi"
         ]
       },
       "activity_score": 65.0,
@@ -1019,8 +1019,8 @@
           "drone"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "139205847": {
       "repo_id": 139205847,
@@ -1029,7 +1029,7 @@
       "owner": "nasa-jpl",
       "html_url": "https://github.com/nasa-jpl/open-source-rover",
       "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
-      "stars": 9388,
+      "stars": 9395,
       "forks": 1469,
       "open_issues": 17,
       "language": "Prolog",
@@ -1043,7 +1043,7 @@
         "robotics"
       ],
       "created_at": "2018-06-29T23:57:16Z",
-      "updated_at": "2026-05-31T13:36:43Z",
+      "updated_at": "2026-06-01T19:10:45Z",
       "pushed_at": "2026-05-28T16:14:13Z",
       "license": "Apache-2.0",
       "homepage": "https://open-source-rover.readthedocs.io",
@@ -1067,8 +1067,8 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "140675080": {
       "repo_id": 140675080,
@@ -1077,7 +1077,7 @@
       "owner": "Hypfer",
       "html_url": "https://github.com/Hypfer/Valetudo",
       "description": "Cloud replacement for vacuum robots enabling local-only operation",
-      "stars": 9113,
+      "stars": 9115,
       "forks": 489,
       "open_issues": 0,
       "language": "JavaScript",
@@ -1091,7 +1091,7 @@
         "xiaomi"
       ],
       "created_at": "2018-07-12T07:07:43Z",
-      "updated_at": "2026-05-31T19:47:03Z",
+      "updated_at": "2026-06-01T20:34:37Z",
       "pushed_at": "2026-05-31T16:05:00Z",
       "license": "Apache-2.0",
       "homepage": "https://valetudo.cloud",
@@ -1111,8 +1111,8 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "64561753": {
       "repo_id": 64561753,
@@ -1121,7 +1121,7 @@
       "owner": "dusty-nv",
       "html_url": "https://github.com/dusty-nv/jetson-inference",
       "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
-      "stars": 8867,
+      "stars": 8871,
       "forks": 3099,
       "open_issues": 405,
       "language": "C++",
@@ -1148,7 +1148,7 @@
         "video-analytics"
       ],
       "created_at": "2016-07-30T19:56:47Z",
-      "updated_at": "2026-05-29T12:17:51Z",
+      "updated_at": "2026-06-01T20:07:16Z",
       "pushed_at": "2025-10-16T17:34:47Z",
       "license": "MIT",
       "homepage": "https://developer.nvidia.com/embedded/twodaystoademo",
@@ -1181,8 +1181,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "280608729": {
       "repo_id": 280608729,
@@ -1191,15 +1191,15 @@
       "owner": "UZ-SLAMLab",
       "html_url": "https://github.com/UZ-SLAMLab/ORB_SLAM3",
       "description": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",
-      "stars": 8666,
-      "forks": 3081,
+      "stars": 8668,
+      "forks": 3083,
       "open_issues": 569,
       "language": "C++",
       "topics": [
         "slam-algorithms"
       ],
       "created_at": "2020-07-18T07:47:46Z",
-      "updated_at": "2026-05-31T13:32:13Z",
+      "updated_at": "2026-06-01T19:53:04Z",
       "pushed_at": "2024-07-24T08:41:52Z",
       "license": "GPL-3.0",
       "homepage": "",
@@ -1229,8 +1229,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "104623696": {
       "repo_id": 104623696,
@@ -1240,7 +1240,7 @@
       "html_url": "https://github.com/Ewenwan/MVision",
       "description": "机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶",
       "stars": 8648,
-      "forks": 2789,
+      "forks": 2788,
       "open_issues": 19,
       "language": "C++",
       "topics": [
@@ -1253,7 +1253,7 @@
         "slam"
       ],
       "created_at": "2017-09-24T06:25:27Z",
-      "updated_at": "2026-05-30T11:00:39Z",
+      "updated_at": "2026-06-01T15:56:52Z",
       "pushed_at": "2024-07-09T10:25:36Z",
       "license": null,
       "homepage": "",
@@ -1262,9 +1262,9 @@
       "has_demo": true,
       "detected_tech": {
         "ml_framework": [
-          "PCL",
           "OpenCV",
-          "TensorFlow"
+          "TensorFlow",
+          "PCL"
         ]
       },
       "activity_score": 50.0,
@@ -1279,8 +1279,46 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
+    },
+    "910176789": {
+      "repo_id": 910176789,
+      "full_name": "NVIDIA/cosmos",
+      "name": "cosmos",
+      "owner": "NVIDIA",
+      "html_url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "stars": 8366,
+      "forks": 535,
+      "open_issues": 17,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "created_at": "2024-12-30T17:21:14Z",
+      "updated_at": "2026-06-02T02:03:57Z",
+      "pushed_at": "2026-06-01T08:24:13Z",
+      "license": "NOASSERTION",
+      "homepage": "https://www.nvidia.com/en-us/ai/cosmos/",
+      "readme_length": 34809,
+      "has_installation_guide": false,
+      "has_demo": true,
+      "detected_tech": {},
+      "activity_score": 70.0,
+      "key_sentences": [
+        "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+        "<img src=\"https://github.com/user-attachments/assets/28f2d612-bbd6-44a3-8795-833d05e9f05f\" width=\"274\" alt=\"NVIDIA Cosmos\">",
+        "<a href=\"https://www.nvidia.com/en-us/ai/cosmos/\">Website</a> |"
+      ],
+      "category": {
+        "category_id": "mobile",
+        "category_name": "🚗 移动机器人/自动驾驶",
+        "confidence": 0.4,
+        "matched_keywords": [
+          "autonomous"
+        ]
+      },
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "567038244": {
       "repo_id": 567038244,
@@ -1289,9 +1327,9 @@
       "owner": "isaac-sim",
       "html_url": "https://github.com/isaac-sim/IsaacLab",
       "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
-      "stars": 7308,
-      "forks": 3588,
-      "open_issues": 649,
+      "stars": 7317,
+      "forks": 3594,
+      "open_issues": 652,
       "language": "Python",
       "topics": [
         "isaac-sim",
@@ -1300,8 +1338,8 @@
         "robotics"
       ],
       "created_at": "2022-11-16T23:55:13Z",
-      "updated_at": "2026-06-01T02:00:30Z",
-      "pushed_at": "2026-05-31T19:00:13Z",
+      "updated_at": "2026-06-02T01:28:06Z",
+      "pushed_at": "2026-06-02T01:41:33Z",
       "license": "BSD-3-Clause",
       "homepage": "https://isaac-sim.github.io/IsaacLab",
       "readme_length": 9947,
@@ -1327,8 +1365,8 @@
           "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "946829547": {
       "repo_id": 946829547,
@@ -1337,13 +1375,13 @@
       "owner": "NVIDIA",
       "html_url": "https://github.com/NVIDIA/Isaac-GR00T",
       "description": "NVIDIA Isaac GR00T N1.7 -  A Foundation Model for Generalist Robots.",
-      "stars": 7168,
-      "forks": 1218,
+      "stars": 7188,
+      "forks": 1224,
       "open_issues": 289,
       "language": "Python",
       "topics": [],
       "created_at": "2025-03-11T18:34:24Z",
-      "updated_at": "2026-05-31T11:36:13Z",
+      "updated_at": "2026-06-02T01:42:59Z",
       "pushed_at": "2026-05-26T17:01:29Z",
       "license": "Apache-2.0",
       "homepage": "https://developer.nvidia.com/isaac/gr00t",
@@ -1372,49 +1410,8 @@
           "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
-    },
-    "198018985": {
-      "repo_id": 198018985,
-      "full_name": "TonyChen56/WeChatRobot",
-      "name": "WeChatRobot",
-      "owner": "TonyChen56",
-      "html_url": "https://github.com/TonyChen56/WeChatRobot",
-      "description": "微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK",
-      "stars": 7130,
-      "forks": 2394,
-      "open_issues": 0,
-      "language": "C++",
-      "topics": [
-        "wechat",
-        "wechatapi",
-        "wechatrobot",
-        "wxhook"
-      ],
-      "created_at": "2019-07-21T06:06:23Z",
-      "updated_at": "2026-05-30T09:27:43Z",
-      "pushed_at": "2025-12-17T05:05:32Z",
-      "license": null,
-      "homepage": "",
-      "readme_length": 756,
-      "has_installation_guide": false,
-      "has_demo": false,
-      "detected_tech": {},
-      "activity_score": 50.0,
-      "key_sentences": [
-        "微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK",
-        "> ⚠️ **本项目已停止维护，仅供学习参考**",
-        "📖 **完整项目文档请查看：[README_DETAILS.md](README_DETAILS.md)**"
-      ],
-      "category": {
-        "category_id": "fallback",
-        "category_name": "📦 其他",
-        "confidence": 0.0,
-        "matched_keywords": []
-      },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "763842651": {
       "repo_id": 763842651,
@@ -1423,8 +1420,8 @@
       "owner": "AI4Finance-Foundation",
       "html_url": "https://github.com/AI4Finance-Foundation/FinRobot",
       "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 ",
-      "stars": 7127,
-      "forks": 1195,
+      "stars": 7136,
+      "forks": 1198,
       "open_issues": 67,
       "language": "Jupyter Notebook",
       "topics": [
@@ -1438,7 +1435,7 @@
         "robo-advisor"
       ],
       "created_at": "2024-02-27T02:30:30Z",
-      "updated_at": "2026-06-01T01:54:32Z",
+      "updated_at": "2026-06-01T18:03:46Z",
       "pushed_at": "2026-05-10T17:01:37Z",
       "license": "Apache-2.0",
       "homepage": "https://finrobot.ai",
@@ -1458,8 +1455,49 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
+    },
+    "198018985": {
+      "repo_id": 198018985,
+      "full_name": "TonyChen56/WeChatRobot",
+      "name": "WeChatRobot",
+      "owner": "TonyChen56",
+      "html_url": "https://github.com/TonyChen56/WeChatRobot",
+      "description": "微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK",
+      "stars": 7130,
+      "forks": 2394,
+      "open_issues": 0,
+      "language": "C++",
+      "topics": [
+        "wechat",
+        "wechatapi",
+        "wechatrobot",
+        "wxhook"
+      ],
+      "created_at": "2019-07-21T06:06:23Z",
+      "updated_at": "2026-06-01T02:35:33Z",
+      "pushed_at": "2025-12-17T05:05:32Z",
+      "license": null,
+      "homepage": "",
+      "readme_length": 756,
+      "has_installation_guide": false,
+      "has_demo": false,
+      "detected_tech": {},
+      "activity_score": 50.0,
+      "key_sentences": [
+        "微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK",
+        "> ⚠️ **本项目已停止维护，仅供学习参考**",
+        "📖 **完整项目文档请查看：[README_DETAILS.md](README_DETAILS.md)**"
+      ],
+      "category": {
+        "category_id": "fallback",
+        "category_name": "📦 其他",
+        "confidence": 0.0,
+        "matched_keywords": []
+      },
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "166071450": {
       "repo_id": 166071450,
@@ -1468,7 +1506,7 @@
       "owner": "wzpan",
       "html_url": "https://github.com/wzpan/wukong-robot",
       "description": "🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。",
-      "stars": 7118,
+      "stars": 7117,
       "forks": 1414,
       "open_issues": 69,
       "language": "Python",
@@ -1492,7 +1530,7 @@
         "unit"
       ],
       "created_at": "2019-01-16T16:19:51Z",
-      "updated_at": "2026-05-30T11:36:08Z",
+      "updated_at": "2026-06-01T04:16:00Z",
       "pushed_at": "2024-10-25T08:30:25Z",
       "license": "MIT",
       "homepage": "https://wukong.hahack.com/",
@@ -1512,8 +1550,8 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "188919037": {
       "repo_id": 188919037,
@@ -1540,7 +1578,7 @@
         "speech-processing"
       ],
       "created_at": "2019-05-27T23:03:48Z",
-      "updated_at": "2026-05-29T19:24:17Z",
+      "updated_at": "2026-06-01T12:25:48Z",
       "pushed_at": "2024-08-20T19:46:33Z",
       "license": "MIT",
       "homepage": "",
@@ -1560,8 +1598,8 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "471527576": {
       "repo_id": 471527576,
@@ -1570,9 +1608,9 @@
       "owner": "NVIDIA",
       "html_url": "https://github.com/NVIDIA/warp",
       "description": "A Python framework for GPU-accelerated simulation, robotics, and machine learning.",
-      "stars": 6716,
-      "forks": 520,
-      "open_issues": 218,
+      "stars": 6718,
+      "forks": 519,
+      "open_issues": 221,
       "language": "Python",
       "topics": [
         "cuda",
@@ -1584,8 +1622,8 @@
         "python"
       ],
       "created_at": "2022-03-18T21:56:23Z",
-      "updated_at": "2026-06-01T01:03:22Z",
-      "pushed_at": "2026-06-01T01:18:28Z",
+      "updated_at": "2026-06-02T00:52:19Z",
+      "pushed_at": "2026-06-01T23:57:22Z",
       "license": "Apache-2.0",
       "homepage": "https://nvidia.github.io/warp/stable/",
       "readme_length": 19457,
@@ -1611,8 +1649,8 @@
           "simulation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "538979582": {
       "repo_id": 538979582,
@@ -1621,8 +1659,8 @@
       "owner": "lich0821",
       "html_url": "https://github.com/lich0821/WeChatFerry",
       "description": "微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.",
-      "stars": 6647,
-      "forks": 1524,
+      "stars": 6655,
+      "forks": 1525,
       "open_issues": 7,
       "language": "C++",
       "topics": [
@@ -1634,7 +1672,7 @@
         "wechat"
       ],
       "created_at": "2022-09-20T12:33:37Z",
-      "updated_at": "2026-05-30T22:16:57Z",
+      "updated_at": "2026-06-01T17:00:07Z",
       "pushed_at": "2026-03-28T09:02:58Z",
       "license": "MIT",
       "homepage": "",
@@ -1654,8 +1692,8 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "46938122": {
       "repo_id": 46938122,
@@ -1664,7 +1702,7 @@
       "owner": "kiloreux",
       "html_url": "https://github.com/kiloreux/awesome-robotics",
       "description": "A list of awesome Robotics resources",
-      "stars": 6626,
+      "stars": 6632,
       "forks": 1027,
       "open_issues": 32,
       "language": null,
@@ -1672,7 +1710,7 @@
         "robotics"
       ],
       "created_at": "2015-11-26T16:53:05Z",
-      "updated_at": "2026-05-30T16:21:20Z",
+      "updated_at": "2026-06-01T22:10:20Z",
       "pushed_at": "2024-09-22T20:24:10Z",
       "license": "NOASSERTION",
       "homepage": "",
@@ -1702,8 +1740,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "452327893": {
       "repo_id": 452327893,
@@ -1712,7 +1750,7 @@
       "owner": "ClemensElflein",
       "html_url": "https://github.com/ClemensElflein/OpenMower",
       "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
-      "stars": 6523,
+      "stars": 6524,
       "forks": 383,
       "open_issues": 18,
       "language": null,
@@ -1730,11 +1768,11 @@
         "rtk"
       ],
       "created_at": "2022-01-26T15:24:24Z",
-      "updated_at": "2026-05-31T22:56:57Z",
-      "pushed_at": "2026-05-30T00:59:26Z",
+      "updated_at": "2026-06-01T21:31:47Z",
+      "pushed_at": "2026-06-01T14:21:53Z",
       "license": "NOASSERTION",
       "homepage": "",
-      "readme_length": 7339,
+      "readme_length": 7301,
       "has_installation_guide": false,
       "has_demo": true,
       "detected_tech": {
@@ -1760,8 +1798,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "145275555": {
       "repo_id": 145275555,
@@ -1770,13 +1808,13 @@
       "owner": "gaoxiang12",
       "html_url": "https://github.com/gaoxiang12/slambook2",
       "description": "edition 2 of the slambook",
-      "stars": 6498,
+      "stars": 6501,
       "forks": 2165,
       "open_issues": 206,
       "language": "C++",
       "topics": [],
       "created_at": "2018-08-19T05:21:13Z",
-      "updated_at": "2026-05-31T15:32:21Z",
+      "updated_at": "2026-06-02T01:33:42Z",
       "pushed_at": "2024-12-27T07:33:49Z",
       "license": "MIT",
       "homepage": null,
@@ -1798,52 +1836,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
-    },
-    "120975327": {
-      "repo_id": 120975327,
-      "full_name": "jason718/awesome-self-supervised-learning",
-      "name": "awesome-self-supervised-learning",
-      "owner": "jason718",
-      "html_url": "https://github.com/jason718/awesome-self-supervised-learning",
-      "description": "A curated list of awesome self-supervised methods",
-      "stars": 6392,
-      "forks": 835,
-      "open_issues": 1,
-      "language": null,
-      "topics": [
-        "computer-vision",
-        "deep-learning",
-        "machine-learning",
-        "natural-language-processing",
-        "reinforcement-learning",
-        "robotics",
-        "self-supervised"
-      ],
-      "created_at": "2018-02-10T01:57:50Z",
-      "updated_at": "2026-05-23T14:03:01Z",
-      "pushed_at": "2026-02-24T08:30:02Z",
-      "license": null,
-      "homepage": "",
-      "readme_length": 76729,
-      "has_installation_guide": false,
-      "has_demo": true,
-      "detected_tech": {},
-      "activity_score": 50.0,
-      "key_sentences": [
-        "A curated list of awesome self-supervised methods",
-        "A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search)",
-        "Self-Supervised Learning has become an exciting direction in AI community."
-      ],
-      "category": {
-        "category_id": "fallback",
-        "category_name": "📦 其他",
-        "confidence": 0.0,
-        "matched_keywords": []
-      },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "170118596": {
       "repo_id": 170118596,
@@ -1852,7 +1846,7 @@
       "owner": "amusi",
       "html_url": "https://github.com/amusi/AI-Job-Notes",
       "description": "AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）",
-      "stars": 6082,
+      "stars": 6083,
       "forks": 667,
       "open_issues": 8,
       "language": null,
@@ -1870,7 +1864,7 @@
         "slam"
       ],
       "created_at": "2019-02-11T11:37:17Z",
-      "updated_at": "2026-05-29T10:17:39Z",
+      "updated_at": "2026-06-01T14:09:56Z",
       "pushed_at": "2025-06-05T05:50:01Z",
       "license": null,
       "homepage": null,
@@ -1896,8 +1890,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "893522": {
       "repo_id": 893522,
@@ -1906,7 +1900,7 @@
       "owner": "serialport",
       "html_url": "https://github.com/serialport/node-serialport",
       "description": "Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!",
-      "stars": 5988,
+      "stars": 5987,
       "forks": 1011,
       "open_issues": 156,
       "language": "TypeScript",
@@ -1925,7 +1919,7 @@
         "serialport"
       ],
       "created_at": "2010-09-07T12:24:28Z",
-      "updated_at": "2026-05-29T08:14:29Z",
+      "updated_at": "2026-06-01T18:50:35Z",
       "pushed_at": "2026-01-17T04:34:43Z",
       "license": "MIT",
       "homepage": "https://serialport.io",
@@ -1945,8 +1939,8 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "31285942": {
       "repo_id": 31285942,
@@ -1955,13 +1949,13 @@
       "owner": "ros2",
       "html_url": "https://github.com/ros2/ros2",
       "description": "The Robot Operating System, is a meta operating system for robots.",
-      "stars": 5568,
+      "stars": 5571,
       "forks": 910,
       "open_issues": 162,
       "language": null,
       "topics": [],
       "created_at": "2015-02-24T22:46:55Z",
-      "updated_at": "2026-06-01T01:55:30Z",
+      "updated_at": "2026-06-01T11:15:49Z",
       "pushed_at": "2026-05-22T15:17:54Z",
       "license": null,
       "homepage": "https://docs.ros.org",
@@ -1985,12 +1979,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.8,
         "matched_keywords": [
-          "ROS",
-          "tools"
+          "tools",
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "329229346": {
       "repo_id": 329229346,
@@ -1999,7 +1993,7 @@
       "owner": "eatmoreapple",
       "html_url": "https://github.com/eatmoreapple/openwechat",
       "description": "golang微信SDK",
-      "stars": 5474,
+      "stars": 5473,
       "forks": 1004,
       "open_issues": 137,
       "language": "Go",
@@ -2013,7 +2007,7 @@
         "wechat-sdk"
       ],
       "created_at": "2021-01-13T07:37:05Z",
-      "updated_at": "2026-05-29T22:22:50Z",
+      "updated_at": "2026-06-01T04:07:27Z",
       "pushed_at": "2025-01-02T03:01:27Z",
       "license": "Apache-2.0",
       "homepage": "",
@@ -2033,8 +2027,8 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1217522067": {
       "repo_id": 1217522067,
@@ -2043,9 +2037,9 @@
       "owner": "earthtojake",
       "html_url": "https://github.com/earthtojake/text-to-cad",
       "description": "A collection of agent skills for CAD, robotics and hardware design",
-      "stars": 5365,
-      "forks": 641,
-      "open_issues": 8,
+      "stars": 5443,
+      "forks": 644,
+      "open_issues": 10,
       "language": "JavaScript",
       "topics": [
         "3mf",
@@ -2068,8 +2062,8 @@
         "wasm"
       ],
       "created_at": "2026-04-22T01:09:45Z",
-      "updated_at": "2026-06-01T01:21:24Z",
-      "pushed_at": "2026-06-01T02:06:00Z",
+      "updated_at": "2026-06-02T02:01:56Z",
+      "pushed_at": "2026-06-01T16:05:49Z",
       "license": "MIT",
       "homepage": "https://www.cadskills.xyz",
       "readme_length": 12145,
@@ -2088,8 +2082,8 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "972979883": {
       "repo_id": 972979883,
@@ -2098,13 +2092,13 @@
       "owner": "Vector-Wangel",
       "html_url": "https://github.com/Vector-Wangel/XLeRobot",
       "description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660",
-      "stars": 5183,
+      "stars": 5185,
       "forks": 557,
       "open_issues": 37,
       "language": "Python",
       "topics": [],
       "created_at": "2025-04-26T02:27:05Z",
-      "updated_at": "2026-05-31T13:48:24Z",
+      "updated_at": "2026-06-01T13:39:50Z",
       "pushed_at": "2026-04-29T16:21:11Z",
       "license": "Apache-2.0",
       "homepage": "https://xlerobot.readthedocs.io",
@@ -2130,8 +2124,8 @@
           "home robot"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "151064439": {
       "repo_id": 151064439,
@@ -2140,7 +2134,7 @@
       "owner": "ExpressLRS",
       "html_url": "https://github.com/ExpressLRS/ExpressLRS",
       "description": "High Performance Open Source Radio Control Link",
-      "stars": 4977,
+      "stars": 4980,
       "forks": 1417,
       "open_issues": 56,
       "language": "C",
@@ -2158,7 +2152,7 @@
         "sx1280"
       ],
       "created_at": "2018-10-01T09:27:55Z",
-      "updated_at": "2026-05-31T21:05:31Z",
+      "updated_at": "2026-06-01T22:26:01Z",
       "pushed_at": "2026-05-31T10:23:26Z",
       "license": "GPL-3.0",
       "homepage": "",
@@ -2167,8 +2161,8 @@
       "has_demo": false,
       "detected_tech": {
         "hardware": [
-          "STM32",
-          "ESP32"
+          "ESP32",
+          "STM32"
         ]
       },
       "activity_score": 80.0,
@@ -2182,12 +2176,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "12018530": {
       "repo_id": 12018530,
@@ -2229,8 +2223,8 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "276269866": {
       "repo_id": 276269866,
@@ -2240,7 +2234,7 @@
       "html_url": "https://github.com/TixiaoShan/LIO-SAM",
       "description": "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping",
       "stars": 4757,
-      "forks": 1499,
+      "forks": 1500,
       "open_issues": 180,
       "language": "C++",
       "topics": [
@@ -2265,9 +2259,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ]
       },
@@ -2285,8 +2279,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "95303580": {
       "repo_id": 95303580,
@@ -2295,7 +2289,7 @@
       "owner": "mithi",
       "html_url": "https://github.com/mithi/robotics-coursework",
       "description": "🤖 Places where you can learn robotics (and stuff like that) online 🤖",
-      "stars": 4658,
+      "stars": 4660,
       "forks": 727,
       "open_issues": 3,
       "language": null,
@@ -2314,7 +2308,7 @@
         "university"
       ],
       "created_at": "2017-06-24T14:45:17Z",
-      "updated_at": "2026-05-29T22:16:21Z",
+      "updated_at": "2026-06-01T19:32:18Z",
       "pushed_at": "2026-05-11T08:28:29Z",
       "license": "Unlicense",
       "homepage": "",
@@ -2327,8 +2321,8 @@
           "ros"
         ],
         "hardware": [
-          "Raspberry Pi",
-          "Arduino"
+          "Arduino",
+          "Raspberry Pi"
         ]
       },
       "activity_score": 60.0,
@@ -2345,8 +2339,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "878773100": {
       "repo_id": 878773100,
@@ -2355,13 +2349,13 @@
       "owner": "SLAM-Handbook-contributors",
       "html_url": "https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release",
       "description": "Release repo for our SLAM Handbook",
-      "stars": 4513,
-      "forks": 294,
+      "stars": 4518,
+      "forks": 295,
       "open_issues": 11,
       "language": "TeX",
       "topics": [],
       "created_at": "2024-10-26T04:29:12Z",
-      "updated_at": "2026-06-01T01:11:16Z",
+      "updated_at": "2026-06-01T13:54:02Z",
       "pushed_at": "2026-05-28T00:31:38Z",
       "license": null,
       "homepage": null,
@@ -2383,8 +2377,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "156228018": {
       "repo_id": 156228018,
@@ -2393,8 +2387,8 @@
       "owner": "cyberbotics",
       "html_url": "https://github.com/cyberbotics/webots",
       "description": "Webots Robot Simulator",
-      "stars": 4385,
-      "forks": 2029,
+      "stars": 4386,
+      "forks": 2028,
       "open_issues": 236,
       "language": "C++",
       "topics": [
@@ -2420,8 +2414,8 @@
         "webots"
       ],
       "created_at": "2018-11-05T14:09:10Z",
-      "updated_at": "2026-05-30T03:42:45Z",
-      "pushed_at": "2026-05-29T23:39:24Z",
+      "updated_at": "2026-06-01T07:06:05Z",
+      "pushed_at": "2026-06-01T23:42:02Z",
       "license": "Apache-2.0",
       "homepage": "https://cyberbotics.com",
       "readme_length": 6309,
@@ -2429,9 +2423,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "simulation": [
@@ -2449,13 +2443,13 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
-          "ROS",
+          "simulator",
           "simulation",
-          "simulator"
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "103442898": {
       "repo_id": 103442898,
@@ -2464,8 +2458,8 @@
       "owner": "MichaelGrupp",
       "html_url": "https://github.com/MichaelGrupp/evo",
       "description": "Python package for the evaluation of odometry and SLAM",
-      "stars": 4237,
-      "forks": 791,
+      "stars": 4239,
+      "forks": 792,
       "open_issues": 9,
       "language": "Python",
       "topics": [
@@ -2486,7 +2480,7 @@
         "tum"
       ],
       "created_at": "2017-09-13T19:40:00Z",
-      "updated_at": "2026-05-30T12:49:18Z",
+      "updated_at": "2026-06-01T06:43:26Z",
       "pushed_at": "2026-05-23T11:08:27Z",
       "license": "GPL-3.0",
       "homepage": "https://michaelgrupp.github.io/evo/",
@@ -2495,9 +2489,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ]
       },
@@ -2515,8 +2509,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "790197987": {
       "repo_id": 790197987,
@@ -2525,8 +2519,8 @@
       "owner": "hku-mars",
       "html_url": "https://github.com/hku-mars/FAST-LIVO2",
       "description": "FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry",
-      "stars": 4119,
-      "forks": 739,
+      "stars": 4130,
+      "forks": 742,
       "open_issues": 316,
       "language": "C++",
       "topics": [
@@ -2542,7 +2536,7 @@
         "slam"
       ],
       "created_at": "2024-04-22T12:49:47Z",
-      "updated_at": "2026-06-01T02:00:08Z",
+      "updated_at": "2026-06-02T01:39:54Z",
       "pushed_at": "2026-03-08T15:40:36Z",
       "license": "GPL-2.0",
       "homepage": "",
@@ -2575,8 +2569,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "22850110": {
       "repo_id": 22850110,
@@ -2585,9 +2579,9 @@
       "owner": "introlab",
       "html_url": "https://github.com/introlab/rtabmap",
       "description": "RTAB-Map library and standalone application",
-      "stars": 3799,
+      "stars": 3802,
       "forks": 928,
-      "open_issues": 575,
+      "open_issues": 576,
       "language": "C++",
       "topics": [
         "android",
@@ -2602,8 +2596,8 @@
         "slam"
       ],
       "created_at": "2014-08-11T18:38:14Z",
-      "updated_at": "2026-05-31T06:51:11Z",
-      "pushed_at": "2026-05-31T20:36:08Z",
+      "updated_at": "2026-06-02T01:25:04Z",
+      "pushed_at": "2026-06-01T09:00:24Z",
       "license": "NOASSERTION",
       "homepage": "https://introlab.github.io/rtabmap",
       "readme_length": 4546,
@@ -2611,9 +2605,9 @@
       "has_demo": false,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ]
       },
@@ -2631,8 +2625,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "3161336": {
       "repo_id": 3161336,
@@ -2641,7 +2635,7 @@
       "owner": "RainerKuemmerle",
       "html_url": "https://github.com/RainerKuemmerle/g2o",
       "description": "g2o: A General Framework for Graph Optimization",
-      "stars": 3432,
+      "stars": 3433,
       "forks": 1151,
       "open_issues": 7,
       "language": "C++",
@@ -2653,8 +2647,8 @@
         "slam"
       ],
       "created_at": "2012-01-12T10:18:45Z",
-      "updated_at": "2026-05-31T19:25:11Z",
-      "pushed_at": "2026-05-27T17:46:30Z",
+      "updated_at": "2026-06-01T02:52:02Z",
+      "pushed_at": "2026-06-01T19:45:58Z",
       "license": null,
       "homepage": "",
       "readme_length": 8043,
@@ -2675,8 +2669,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "179858671": {
       "repo_id": 179858671,
@@ -2685,7 +2679,7 @@
       "owner": "luigifreda",
       "html_url": "https://github.com/luigifreda/pyslam",
       "description": "pySLAM is a hybrid Python/C++ Visual SLAM pipeline supporting monocular, stereo, and RGB-D cameras. It provides a broad set of modern local and global feature extractors, multiple loop-closure strategies, a volumetric reconstruction module, integrated depth-prediction models, and semantic segmentation capabilities for enhanced scene understanding.",
-      "stars": 3316,
+      "stars": 3321,
       "forks": 524,
       "open_issues": 2,
       "language": "Python",
@@ -2712,7 +2706,7 @@
         "volumetric-reconstruction"
       ],
       "created_at": "2019-04-06T16:32:09Z",
-      "updated_at": "2026-06-01T01:50:02Z",
+      "updated_at": "2026-06-02T01:39:25Z",
       "pushed_at": "2026-05-28T18:09:31Z",
       "license": "GPL-3.0",
       "homepage": "",
@@ -2744,8 +2738,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "225547305": {
       "repo_id": 225547305,
@@ -2754,7 +2748,7 @@
       "owner": "amov-lab",
       "html_url": "https://github.com/amov-lab/Prometheus",
       "description": "Open source software for autonomous drones.",
-      "stars": 3158,
+      "stars": 3159,
       "forks": 453,
       "open_issues": 39,
       "language": "C++",
@@ -2766,7 +2760,7 @@
         "slam"
       ],
       "created_at": "2019-12-03T06:28:07Z",
-      "updated_at": "2026-05-31T15:10:32Z",
+      "updated_at": "2026-06-01T11:09:24Z",
       "pushed_at": "2026-04-03T05:10:39Z",
       "license": "Apache-2.0",
       "homepage": "https://github.com/amov-lab/Prometheus",
@@ -2789,12 +2783,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.6,
         "matched_keywords": [
-          "autonomous",
-          "drone"
+          "drone",
+          "autonomous"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "23927994": {
       "repo_id": 23927994,
@@ -2803,8 +2797,8 @@
       "owner": "ANYbotics",
       "html_url": "https://github.com/ANYbotics/grid_map",
       "description": "Universal grid map library for mobile robotic mapping",
-      "stars": 3140,
-      "forks": 871,
+      "stars": 3141,
+      "forks": 872,
       "open_issues": 155,
       "language": "C++",
       "topics": [
@@ -2824,7 +2818,7 @@
         "terrain"
       ],
       "created_at": "2014-09-11T17:17:59Z",
-      "updated_at": "2026-05-30T02:21:13Z",
+      "updated_at": "2026-06-01T17:47:41Z",
       "pushed_at": "2026-01-13T04:08:57Z",
       "license": "BSD-3-Clause",
       "homepage": "",
@@ -2858,8 +2852,8 @@
           "navigation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "938231495": {
       "repo_id": 938231495,
@@ -2905,8 +2899,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "33331247": {
       "repo_id": 33331247,
@@ -2942,7 +2936,7 @@
         "xinjiang"
       ],
       "created_at": "2015-04-02T20:51:50Z",
-      "updated_at": "2026-05-31T19:28:34Z",
+      "updated_at": "2026-06-02T00:39:22Z",
       "pushed_at": "2026-02-05T07:59:11Z",
       "license": "CC-BY-SA-4.0",
       "homepage": "https://cirosantilli.com/china-dictatorship",
@@ -2963,8 +2957,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "56404753": {
       "repo_id": 56404753,
@@ -2973,9 +2967,9 @@
       "owner": "jslee02",
       "html_url": "https://github.com/jslee02/awesome-robotics-libraries",
       "description": ":sunglasses: A curated list of robotics libraries and software",
-      "stars": 2938,
+      "stars": 2939,
       "forks": 483,
-      "open_issues": 2,
+      "open_issues": 1,
       "language": "Python",
       "topics": [
         "awesome",
@@ -2992,11 +2986,11 @@
         "slam"
       ],
       "created_at": "2016-04-16T20:44:29Z",
-      "updated_at": "2026-05-30T08:14:30Z",
-      "pushed_at": "2026-05-25T07:32:23Z",
+      "updated_at": "2026-06-01T20:23:46Z",
+      "pushed_at": "2026-06-01T20:23:41Z",
       "license": "CC0-1.0",
       "homepage": "http://jslee02.github.io/awesome-robotics-libraries/",
-      "readme_length": 39608,
+      "readme_length": 39763,
       "has_installation_guide": false,
       "has_demo": true,
       "detected_tech": {
@@ -3005,10 +2999,10 @@
           "ros"
         ],
         "simulation": [
-          "Mujoco",
           "Isaac Sim",
           "Isaac Gym",
           "PyBullet",
+          "Mujoco",
           "Gazebo"
         ],
         "ml_framework": [
@@ -3029,16 +3023,16 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
-          "simulation",
-          "isaac",
+          "gazebo",
           "simulator",
           "ROS",
-          "gazebo",
-          "mujoco"
+          "simulation",
+          "mujoco",
+          "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "166249121": {
       "repo_id": 166249121,
@@ -3047,7 +3041,7 @@
       "owner": "rpng",
       "html_url": "https://github.com/rpng/open_vins",
       "description": "An open source platform for visual-inertial navigation research.",
-      "stars": 2920,
+      "stars": 2922,
       "forks": 863,
       "open_issues": 68,
       "language": "C++",
@@ -3063,7 +3057,7 @@
         "visual-inertial-odometry"
       ],
       "created_at": "2019-01-17T15:33:28Z",
-      "updated_at": "2026-06-01T02:00:51Z",
+      "updated_at": "2026-06-01T13:03:22Z",
       "pushed_at": "2025-11-30T08:23:17Z",
       "license": "GPL-3.0",
       "homepage": "https://docs.openvins.com",
@@ -3090,13 +3084,13 @@
         "category_name": "🧠 AI / 机器人大脑",
         "confidence": 1.0,
         "matched_keywords": [
-          "navigation",
           "computer vision",
+          "navigation",
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "139863328": {
       "repo_id": 139863328,
@@ -3154,8 +3148,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "6659299": {
       "repo_id": 6659299,
@@ -3201,8 +3195,8 @@
           "navigation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "399623107": {
       "repo_id": 399623107,
@@ -3211,13 +3205,13 @@
       "owner": "princeton-vl",
       "html_url": "https://github.com/princeton-vl/DROID-SLAM",
       "description": "",
-      "stars": 2580,
-      "forks": 411,
+      "stars": 2581,
+      "forks": 412,
       "open_issues": 100,
       "language": "Python",
       "topics": [],
       "created_at": "2021-08-24T22:41:58Z",
-      "updated_at": "2026-05-29T11:04:53Z",
+      "updated_at": "2026-06-01T03:03:22Z",
       "pushed_at": "2025-05-05T05:29:42Z",
       "license": "BSD-3-Clause",
       "homepage": null,
@@ -3243,8 +3237,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "864777463": {
       "repo_id": 864777463,
@@ -3253,9 +3247,9 @@
       "owner": "enactic",
       "html_url": "https://github.com/enactic/openarm",
       "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
-      "stars": 2527,
+      "stars": 2530,
       "forks": 278,
-      "open_issues": 14,
+      "open_issues": 15,
       "language": "MDX",
       "topics": [
         "bilateral-teleoperation",
@@ -3278,8 +3272,8 @@
         "teleoperation"
       ],
       "created_at": "2024-09-29T06:13:42Z",
-      "updated_at": "2026-05-31T16:55:55Z",
-      "pushed_at": "2026-05-28T00:54:31Z",
+      "updated_at": "2026-06-01T16:03:31Z",
+      "pushed_at": "2026-06-01T07:07:36Z",
       "license": "Apache-2.0",
       "homepage": "https://openarm.dev",
       "readme_length": 4496,
@@ -3308,8 +3302,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "298347380": {
       "repo_id": 298347380,
@@ -3369,13 +3363,13 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
+          "tools",
           "ROS",
-          "simulation",
-          "tools"
+          "simulation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "599893682": {
       "repo_id": 599893682,
@@ -3418,8 +3412,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "133582946": {
       "repo_id": 133582946,
@@ -3428,13 +3422,13 @@
       "owner": "SteveMacenski",
       "html_url": "https://github.com/SteveMacenski/slam_toolbox",
       "description": "Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS",
-      "stars": 2492,
-      "forks": 690,
+      "stars": 2494,
+      "forks": 689,
       "open_issues": 60,
       "language": "C++",
       "topics": [],
       "created_at": "2018-05-15T23:12:06Z",
-      "updated_at": "2026-05-30T04:48:03Z",
+      "updated_at": "2026-06-01T03:29:01Z",
       "pushed_at": "2026-05-20T17:10:19Z",
       "license": "LGPL-2.1",
       "homepage": "",
@@ -3462,8 +3456,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "404724835": {
       "repo_id": 404724835,
@@ -3515,12 +3509,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.6,
         "matched_keywords": [
-          "framework",
-          "ROS"
+          "ROS",
+          "framework"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "881022384": {
       "repo_id": 881022384,
@@ -3529,13 +3523,13 @@
       "owner": "YanjieZe",
       "html_url": "https://github.com/YanjieZe/awesome-humanoid-robot-learning",
       "description": "A Paper List for Humanoid Robot Learning.",
-      "stars": 2379,
+      "stars": 2383,
       "forks": 140,
       "open_issues": 1,
       "language": "Python",
       "topics": [],
       "created_at": "2024-10-30T19:27:44Z",
-      "updated_at": "2026-06-01T00:14:57Z",
+      "updated_at": "2026-06-01T19:48:52Z",
       "pushed_at": "2026-05-24T09:18:32Z",
       "license": "MIT",
       "homepage": "",
@@ -3565,8 +3559,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "880776535": {
       "repo_id": 880776535,
@@ -3575,7 +3569,7 @@
       "owner": "henki-robotics",
       "html_url": "https://github.com/henki-robotics/robotics_essentials_ros2",
       "description": "Learn the basics of robotics through hands-on experience using ROS 2 and Gazebo simulation.",
-      "stars": 2352,
+      "stars": 2354,
       "forks": 240,
       "open_issues": 1,
       "language": "C++",
@@ -3588,7 +3582,7 @@
         "slam"
       ],
       "created_at": "2024-10-30T10:39:27Z",
-      "updated_at": "2026-05-31T15:29:57Z",
+      "updated_at": "2026-06-01T09:34:50Z",
       "pushed_at": "2025-11-25T22:56:19Z",
       "license": null,
       "homepage": "",
@@ -3597,9 +3591,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "simulation": [
@@ -3617,13 +3611,13 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
+          "gazebo",
           "ROS",
-          "simulation",
-          "gazebo"
+          "simulation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "675887592": {
       "repo_id": 675887592,
@@ -3657,7 +3651,7 @@
         "vio"
       ],
       "created_at": "2023-08-08T01:02:29Z",
-      "updated_at": "2026-06-01T02:04:06Z",
+      "updated_at": "2026-06-02T01:44:03Z",
       "pushed_at": "2025-06-07T06:21:33Z",
       "license": null,
       "homepage": "",
@@ -3684,8 +3678,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "235250047": {
       "repo_id": 235250047,
@@ -3733,8 +3727,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "115905660": {
       "repo_id": 115905660,
@@ -3784,8 +3778,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1031180012": {
       "repo_id": 1031180012,
@@ -3794,13 +3788,13 @@
       "owner": "YanjieZe",
       "html_url": "https://github.com/YanjieZe/GMR",
       "description": "[ICRA 2026] GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST.",
-      "stars": 2263,
+      "stars": 2272,
       "forks": 388,
       "open_issues": 93,
       "language": "Python",
       "topics": [],
       "created_at": "2025-08-03T07:23:01Z",
-      "updated_at": "2026-05-31T22:25:47Z",
+      "updated_at": "2026-06-02T01:52:01Z",
       "pushed_at": "2026-04-02T09:34:42Z",
       "license": "MIT",
       "homepage": "",
@@ -3826,8 +3820,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "536134468": {
       "repo_id": 536134468,
@@ -3836,8 +3830,8 @@
       "owner": "PRBonn",
       "html_url": "https://github.com/PRBonn/kiss-icp",
       "description": "A LiDAR odometry pipeline that just works",
-      "stars": 2203,
-      "forks": 445,
+      "stars": 2204,
+      "forks": 446,
       "open_issues": 14,
       "language": "C++",
       "topics": [
@@ -3850,7 +3844,7 @@
         "slam"
       ],
       "created_at": "2022-09-13T13:15:47Z",
-      "updated_at": "2026-05-28T11:54:47Z",
+      "updated_at": "2026-06-01T19:57:19Z",
       "pushed_at": "2026-05-14T13:32:20Z",
       "license": "MIT",
       "homepage": "https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/vizzo2023ral.pdf",
@@ -3859,9 +3853,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ]
       },
@@ -3879,8 +3873,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "13708826": {
       "repo_id": 13708826,
@@ -3918,14 +3912,14 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "ros_distro": [
-          "Humble",
-          "Jazzy"
+          "Jazzy",
+          "Humble"
         ]
       },
       "activity_score": 70.0,
@@ -3939,12 +3933,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.6,
         "matched_keywords": [
-          "autonomous",
-          "mobile robot"
+          "mobile robot",
+          "autonomous"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "725762086": {
       "repo_id": 725762086,
@@ -3991,8 +3985,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "766597813": {
       "repo_id": 766597813,
@@ -4001,7 +3995,7 @@
       "owner": "muskie82",
       "html_url": "https://github.com/muskie82/MonoGS",
       "description": "[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM",
-      "stars": 2096,
+      "stars": 2095,
       "forks": 222,
       "open_issues": 103,
       "language": "Python",
@@ -4013,7 +4007,7 @@
         "slam"
       ],
       "created_at": "2024-03-03T17:46:19Z",
-      "updated_at": "2026-05-31T10:09:00Z",
+      "updated_at": "2026-06-01T07:19:18Z",
       "pushed_at": "2024-08-07T14:15:29Z",
       "license": "NOASSERTION",
       "homepage": "https://rmurai.co.uk/projects/GaussianSplattingSLAM/",
@@ -4035,8 +4029,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "286408558": {
       "repo_id": 286408558,
@@ -4045,7 +4039,7 @@
       "owner": "learnsyslab",
       "html_url": "https://github.com/learnsyslab/gym-pybullet-drones",
       "description": "PyBullet Gymnasium environments for single and multi-agent reinforcement learning of quadcopter control",
-      "stars": 2028,
+      "stars": 2030,
       "forks": 540,
       "open_issues": 111,
       "language": "Python",
@@ -4066,7 +4060,7 @@
         "uav"
       ],
       "created_at": "2020-08-10T07:38:09Z",
-      "updated_at": "2026-05-31T20:02:07Z",
+      "updated_at": "2026-06-02T01:30:07Z",
       "pushed_at": "2026-05-31T13:41:05Z",
       "license": "MIT",
       "homepage": "https://arxiv.org/pdf/2103.02142",
@@ -4092,12 +4086,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.6,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "766789360": {
       "repo_id": 766789360,
@@ -4106,7 +4100,7 @@
       "owner": "roboterax",
       "html_url": "https://github.com/roboterax/humanoid-gym",
       "description": "Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695",
-      "stars": 2003,
+      "stars": 2005,
       "forks": 249,
       "open_issues": 24,
       "language": "Python",
@@ -4120,7 +4114,7 @@
         "robotics"
       ],
       "created_at": "2024-03-04T06:02:40Z",
-      "updated_at": "2026-05-31T03:06:49Z",
+      "updated_at": "2026-06-02T01:50:10Z",
       "pushed_at": "2025-01-26T08:11:29Z",
       "license": null,
       "homepage": "https://sites.google.com/view/humanoid-gym/",
@@ -4151,8 +4145,8 @@
           "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "61611248": {
       "repo_id": 61611248,
@@ -4161,7 +4155,7 @@
       "owner": "ROBOTIS-GIT",
       "html_url": "https://github.com/ROBOTIS-GIT/turtlebot3",
       "description": "ROS packages for Turtlebot3",
-      "stars": 1978,
+      "stars": 1979,
       "forks": 1157,
       "open_issues": 15,
       "language": "C++",
@@ -4179,7 +4173,7 @@
         "turtlebot3"
       ],
       "created_at": "2016-06-21T07:14:22Z",
-      "updated_at": "2026-05-29T06:14:50Z",
+      "updated_at": "2026-06-01T19:56:36Z",
       "pushed_at": "2025-12-15T22:31:15Z",
       "license": "Apache-2.0",
       "homepage": "http://turtlebot3.robotis.com",
@@ -4210,8 +4204,8 @@
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "18298873": {
       "repo_id": 18298873,
@@ -4220,13 +4214,13 @@
       "owner": "cra-ros-pkg",
       "html_url": "https://github.com/cra-ros-pkg/robot_localization",
       "description": "robot_localization is a package of nonlinear state estimation nodes. The package was developed by Charles River Analytics, Inc. Please ask questions on answers.ros.org.",
-      "stars": 1898,
+      "stars": 1899,
       "forks": 1018,
       "open_issues": 88,
       "language": "C++",
       "topics": [],
       "created_at": "2014-03-31T15:54:51Z",
-      "updated_at": "2026-05-31T11:54:01Z",
+      "updated_at": "2026-06-02T00:57:25Z",
       "pushed_at": "2026-04-30T09:58:22Z",
       "license": "NOASSERTION",
       "homepage": "http://www.cra.com",
@@ -4246,8 +4240,8 @@
         "confidence": 0.0,
         "matched_keywords": []
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "274066307": {
       "repo_id": 274066307,
@@ -4256,8 +4250,8 @@
       "owner": "espressif",
       "html_url": "https://github.com/espressif/esp-drone",
       "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
-      "stars": 1869,
-      "forks": 443,
+      "stars": 1872,
+      "forks": 444,
       "open_issues": 34,
       "language": "C",
       "topics": [
@@ -4266,7 +4260,7 @@
         "quadcopter"
       ],
       "created_at": "2020-06-22T07:14:49Z",
-      "updated_at": "2026-05-31T12:21:42Z",
+      "updated_at": "2026-06-01T08:57:08Z",
       "pushed_at": "2025-07-24T13:59:16Z",
       "license": "GPL-3.0",
       "homepage": "",
@@ -4289,12 +4283,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "493983800": {
       "repo_id": 493983800,
@@ -4318,9 +4312,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "ros_distro": [
@@ -4328,13 +4322,13 @@
           "Iron"
         ],
         "simulation": [
-          "Gazebo",
-          "Webots"
+          "Webots",
+          "Gazebo"
         ],
         "ml_framework": [
+          "PCL",
           "OpenCV",
-          "Open3D",
-          "PCL"
+          "Open3D"
         ],
         "hardware": [
           "Jetson"
@@ -4351,13 +4345,13 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
-          "ROS",
+          "tools",
           "gazebo",
-          "tools"
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "170893393": {
       "repo_id": 170893393,
@@ -4366,13 +4360,13 @@
       "owner": "moveit",
       "html_url": "https://github.com/moveit/moveit2",
       "description": ":robot: MoveIt for ROS 2",
-      "stars": 1836,
+      "stars": 1838,
       "forks": 757,
       "open_issues": 353,
       "language": "C++",
       "topics": [],
       "created_at": "2019-02-15T16:17:11Z",
-      "updated_at": "2026-05-31T13:46:02Z",
+      "updated_at": "2026-06-02T00:19:29Z",
       "pushed_at": "2026-05-25T12:54:03Z",
       "license": "BSD-3-Clause",
       "homepage": "https://moveit.ai/",
@@ -4385,11 +4379,11 @@
           "ros"
         ],
         "ros_distro": [
-          "Humble",
-          "Jazzy"
+          "Jazzy",
+          "Humble"
         ]
       },
-      "activity_score": 75.0,
+      "activity_score": 70.0,
       "key_sentences": [
         ":robot: MoveIt for ROS 2",
         "<img src=\"http://moveit.ros.org/assets/logo/moveit_logo-black.png\" alt=\"MoveIt Logo\" width=\"200\"/>",
@@ -4400,12 +4394,60 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.8,
         "matched_keywords": [
-          "framework",
-          "ROS"
+          "ROS",
+          "framework"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
+    },
+    "1125748027": {
+      "repo_id": 1125748027,
+      "full_name": "Roboparty/roboto_origin",
+      "name": "roboto_origin",
+      "owner": "Roboparty",
+      "html_url": "https://github.com/Roboparty/roboto_origin",
+      "description": "Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人",
+      "stars": 1822,
+      "forks": 252,
+      "open_issues": 0,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2025-12-31T09:30:49Z",
+      "updated_at": "2026-06-02T01:16:19Z",
+      "pushed_at": "2026-05-29T05:46:40Z",
+      "license": "GPL-3.0",
+      "homepage": "",
+      "readme_length": 10127,
+      "has_installation_guide": true,
+      "has_demo": true,
+      "detected_tech": {
+        "ros": [
+          "ROS2",
+          "ros2"
+        ],
+        "simulation": [
+          "Isaac Sim",
+          "Mujoco"
+        ]
+      },
+      "activity_score": 60.0,
+      "key_sentences": [
+        "Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人",
+        "**[中文说明点这里](README_cn.md)**",
+        "We are **RoboParty**, founded on February 21, 2025. We started developing humanoid robots in April and completed the prototype **ROBOTO_ORIGIN** in just four months. We have always upheld the philosophy of open source. ROBOTO_ORIGIN's entire R&D process, including all structures, electronics, training, and deployment, has been open-sourced."
+      ],
+      "category": {
+        "category_id": "tools_sim",
+        "category_name": "🔧 工具/仿真平台",
+        "confidence": 0.8,
+        "matched_keywords": [
+          "mujoco",
+          "isaac"
+        ]
+      },
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1266625": {
       "repo_id": 1266625,
@@ -4455,56 +4497,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
-    },
-    "1125748027": {
-      "repo_id": 1125748027,
-      "full_name": "Roboparty/roboto_origin",
-      "name": "roboto_origin",
-      "owner": "Roboparty",
-      "html_url": "https://github.com/Roboparty/roboto_origin",
-      "description": "Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人",
-      "stars": 1790,
-      "forks": 249,
-      "open_issues": 0,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2025-12-31T09:30:49Z",
-      "updated_at": "2026-06-01T02:05:50Z",
-      "pushed_at": "2026-05-29T05:46:40Z",
-      "license": "GPL-3.0",
-      "homepage": "",
-      "readme_length": 10127,
-      "has_installation_guide": true,
-      "has_demo": true,
-      "detected_tech": {
-        "ros": [
-          "ROS2",
-          "ros2"
-        ],
-        "simulation": [
-          "Mujoco",
-          "Isaac Sim"
-        ]
-      },
-      "activity_score": 60.0,
-      "key_sentences": [
-        "Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人",
-        "**[中文说明点这里](README_cn.md)**",
-        "We are **RoboParty**, founded on February 21, 2025. We started developing humanoid robots in April and completed the prototype **ROBOTO_ORIGIN** in just four months. We have always upheld the philosophy of open source. ROBOTO_ORIGIN's entire R&D process, including all structures, electronics, training, and deployment, has been open-sourced."
-      ],
-      "category": {
-        "category_id": "tools_sim",
-        "category_name": "🔧 工具/仿真平台",
-        "confidence": 0.8,
-        "matched_keywords": [
-          "mujoco",
-          "isaac"
-        ]
-      },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "19574322": {
       "repo_id": 19574322,
@@ -4513,7 +4507,7 @@
       "owner": "ANYbotics",
       "html_url": "https://github.com/ANYbotics/elevation_mapping",
       "description": "Robot-centric elevation mapping for rough terrain navigation",
-      "stars": 1790,
+      "stars": 1791,
       "forks": 502,
       "open_issues": 100,
       "language": "C++",
@@ -4524,7 +4518,7 @@
         "terrain-mapping"
       ],
       "created_at": "2014-05-08T13:26:47Z",
-      "updated_at": "2026-05-31T09:25:16Z",
+      "updated_at": "2026-06-01T12:05:07Z",
       "pushed_at": "2024-11-04T10:55:13Z",
       "license": "BSD-3-Clause",
       "homepage": "",
@@ -4551,8 +4545,8 @@
           "navigation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "506852195": {
       "repo_id": 506852195,
@@ -4561,13 +4555,13 @@
       "owner": "qiayuanl",
       "html_url": "https://github.com/qiayuanl/legged_control",
       "description": "NMPC, WBC, state estimation, and sim2real framework for legged robots based on OCS2 and ros-controls",
-      "stars": 1698,
+      "stars": 1699,
       "forks": 353,
       "open_issues": 37,
       "language": "C++",
       "topics": [],
       "created_at": "2022-06-24T02:24:12Z",
-      "updated_at": "2026-06-01T01:38:41Z",
+      "updated_at": "2026-06-01T09:39:19Z",
       "pushed_at": "2025-02-13T10:09:24Z",
       "license": "BSD-3-Clause",
       "homepage": "",
@@ -4594,12 +4588,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.8,
         "matched_keywords": [
-          "framework",
-          "ROS"
+          "ROS",
+          "framework"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "862223185": {
       "repo_id": 862223185,
@@ -4608,8 +4602,8 @@
       "owner": "NVlabs",
       "html_url": "https://github.com/NVlabs/ProtoMotions",
       "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
-      "stars": 1688,
-      "forks": 198,
+      "stars": 1691,
+      "forks": 199,
       "open_issues": 23,
       "language": "Python",
       "topics": [
@@ -4621,7 +4615,7 @@
         "reinforcement-learning"
       ],
       "created_at": "2024-09-24T08:41:56Z",
-      "updated_at": "2026-05-31T02:30:43Z",
+      "updated_at": "2026-06-02T01:27:51Z",
       "pushed_at": "2026-05-27T18:20:49Z",
       "license": "Apache-2.0",
       "homepage": "https://nvlabs.github.io/ProtoMotions/",
@@ -4644,13 +4638,13 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
+          "mujoco",
           "framework",
-          "simulation",
-          "mujoco"
+          "simulation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "478093237": {
       "repo_id": 478093237,
@@ -4704,8 +4698,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "838528318": {
       "repo_id": 838528318,
@@ -4714,7 +4708,7 @@
       "owner": "nasa-jpl",
       "html_url": "https://github.com/nasa-jpl/rosa",
       "description": "ROSA 🤖 is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.",
-      "stars": 1529,
+      "stars": 1528,
       "forks": 166,
       "open_issues": 3,
       "language": "Python",
@@ -4730,7 +4724,7 @@
         "ros2"
       ],
       "created_at": "2024-08-05T20:35:20Z",
-      "updated_at": "2026-05-31T15:18:43Z",
+      "updated_at": "2026-06-01T14:54:15Z",
       "pushed_at": "2026-03-17T17:50:58Z",
       "license": "Apache-2.0",
       "homepage": "https://github.com/nasa-jpl/rosa/wiki",
@@ -4739,9 +4733,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "ros_distro": [
@@ -4759,12 +4753,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.6,
         "matched_keywords": [
-          "ROS",
-          "tools"
+          "tools",
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1172139127": {
       "repo_id": 1172139127,
@@ -4801,7 +4795,7 @@
       "has_installation_guide": false,
       "has_demo": false,
       "detected_tech": {},
-      "activity_score": 40.0,
+      "activity_score": 35.0,
       "key_sentences": [
         "The dRonin flight controller software.",
         "dRonin is an autopilot/flight controller firmware for controllers in the OpenPilot/Tau Labs family.  It's aimed at a variety of use cases: acro/racing, autonomous flight, and vehicle research.",
@@ -4812,13 +4806,13 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 1.0,
         "matched_keywords": [
+          "drone",
           "autonomous",
-          "quadcopter",
-          "drone"
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "838218532": {
       "repo_id": 838218532,
@@ -4827,13 +4821,13 @@
       "owner": "unitreerobotics",
       "html_url": "https://github.com/unitreerobotics/xr_teleoperate",
       "description": "This repository implements teleoperation of the Unitree humanoid robot using XR Devices.",
-      "stars": 1490,
-      "forks": 267,
+      "stars": 1491,
+      "forks": 268,
       "open_issues": 19,
       "language": "Python",
       "topics": [],
       "created_at": "2024-08-05T07:34:45Z",
-      "updated_at": "2026-06-01T01:07:55Z",
+      "updated_at": "2026-06-01T05:32:06Z",
       "pushed_at": "2026-05-28T02:39:50Z",
       "license": "NOASSERTION",
       "homepage": "",
@@ -4855,8 +4849,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "8745199": {
       "repo_id": 8745199,
@@ -4907,12 +4901,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.8,
         "matched_keywords": [
-          "ROS",
-          "gazebo"
+          "gazebo",
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "255865265": {
       "repo_id": 255865265,
@@ -4921,9 +4915,9 @@
       "owner": "gazebosim",
       "html_url": "https://github.com/gazebosim/gz-sim",
       "description": "Open source robotics simulator. The latest version of Gazebo.",
-      "stars": 1357,
+      "stars": 1360,
       "forks": 418,
-      "open_issues": 589,
+      "open_issues": 591,
       "language": "C++",
       "topics": [
         "cpp",
@@ -4946,8 +4940,8 @@
         "simulation"
       ],
       "created_at": "2020-04-15T09:17:50Z",
-      "updated_at": "2026-05-31T20:38:40Z",
-      "pushed_at": "2026-05-30T23:15:52Z",
+      "updated_at": "2026-06-01T23:53:31Z",
+      "pushed_at": "2026-06-02T01:37:21Z",
       "license": "Apache-2.0",
       "homepage": "https://gazebosim.org",
       "readme_length": 7524,
@@ -4955,9 +4949,9 @@
       "has_demo": false,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "simulation": [
@@ -4975,14 +4969,14 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
-          "ROS",
-          "simulation",
           "gazebo",
-          "simulator"
+          "simulator",
+          "simulation",
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "290790298": {
       "repo_id": 290790298,
@@ -4991,9 +4985,9 @@
       "owner": "copper-project",
       "html_url": "https://github.com/copper-project/copper-rs",
       "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
-      "stars": 1327,
-      "forks": 91,
-      "open_issues": 18,
+      "stars": 1333,
+      "forks": 92,
+      "open_issues": 19,
       "language": "Rust",
       "topics": [
         "operating-system",
@@ -5003,8 +4997,8 @@
         "rust"
       ],
       "created_at": "2020-08-27T13:59:54Z",
-      "updated_at": "2026-06-01T02:03:35Z",
-      "pushed_at": "2026-06-01T02:03:32Z",
+      "updated_at": "2026-06-02T01:23:24Z",
+      "pushed_at": "2026-06-02T01:19:25Z",
       "license": "Apache-2.0",
       "homepage": "https://discord.gg/VkCG7Sb9Kw",
       "readme_length": 8549,
@@ -5033,8 +5027,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "767986837": {
       "repo_id": 767986837,
@@ -5043,13 +5037,13 @@
       "owner": "fan-ziqi",
       "html_url": "https://github.com/fan-ziqi/rl_sar",
       "description": "Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. \"sar\" represents \"simulation and real\"",
-      "stars": 1323,
+      "stars": 1324,
       "forks": 172,
       "open_issues": 17,
       "language": "C++",
       "topics": [],
       "created_at": "2024-03-06T09:06:25Z",
-      "updated_at": "2026-06-01T01:55:37Z",
+      "updated_at": "2026-06-01T09:26:57Z",
       "pushed_at": "2026-05-27T04:53:42Z",
       "license": "Apache-2.0",
       "homepage": "",
@@ -5058,9 +5052,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "simulation": [
@@ -5082,16 +5076,16 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
-          "framework",
-          "simulation",
-          "isaac",
-          "ROS",
           "gazebo",
-          "mujoco"
+          "framework",
+          "ROS",
+          "simulation",
+          "mujoco",
+          "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "35864690": {
       "repo_id": 35864690,
@@ -5140,8 +5134,8 @@
           "navigation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "420946327": {
       "repo_id": 420946327,
@@ -5151,7 +5145,7 @@
       "html_url": "https://github.com/reiniscimurs/DRL-robot-navigation",
       "description": "Deep Reinforcement Learning for mobile robot navigation in ROS Gazebo simulator. Using Twin Delayed Deep Deterministic Policy Gradient (TD3) neural network, a robot learns to navigate to a random goal point in a simulated environment while avoiding obstacles.",
       "stars": 1307,
-      "forks": 192,
+      "forks": 193,
       "open_issues": 62,
       "language": "Python",
       "topics": [
@@ -5199,13 +5193,13 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
-          "ROS",
           "gazebo",
-          "simulator"
+          "simulator",
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "964371379": {
       "repo_id": 964371379,
@@ -5214,7 +5208,7 @@
       "owner": "robotmcp",
       "html_url": "https://github.com/robotmcp/ros-mcp-server",
       "description": "Connect AI models like Claude & GPT with robots using MCP and ROS.",
-      "stars": 1255,
+      "stars": 1258,
       "forks": 189,
       "open_issues": 41,
       "language": "Python",
@@ -5228,8 +5222,8 @@
         "ros2-mcp-server"
       ],
       "created_at": "2025-04-11T05:40:09Z",
-      "updated_at": "2026-06-01T01:51:27Z",
-      "pushed_at": "2026-05-31T10:07:15Z",
+      "updated_at": "2026-06-01T22:03:22Z",
+      "pushed_at": "2026-06-01T13:27:41Z",
       "license": "Apache-2.0",
       "homepage": "https://robotmcp.ai",
       "readme_length": 4233,
@@ -5237,9 +5231,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "simulation": [
@@ -5257,13 +5251,13 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
+          "ROS",
           "framework",
-          "isaac",
-          "ROS"
+          "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "656442830": {
       "repo_id": 656442830,
@@ -5272,13 +5266,13 @@
       "owner": "robodhruv",
       "html_url": "https://github.com/robodhruv/visualnav-transformer",
       "description": "Official code and checkpoint release for mobile robot foundation models: GNM, ViNT, and NoMaD.",
-      "stars": 1233,
-      "forks": 186,
+      "stars": 1234,
+      "forks": 187,
       "open_issues": 34,
       "language": "Python",
       "topics": [],
       "created_at": "2023-06-21T01:16:40Z",
-      "updated_at": "2026-05-31T17:38:28Z",
+      "updated_at": "2026-06-01T11:50:50Z",
       "pushed_at": "2024-09-15T06:36:11Z",
       "license": "MIT",
       "homepage": "http://general-navigation-models.github.io",
@@ -5308,8 +5302,8 @@
           "mobile robot"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "190190517": {
       "repo_id": 190190517,
@@ -5318,9 +5312,9 @@
       "owner": "loco-3d",
       "html_url": "https://github.com/loco-3d/crocoddyl",
       "description": "Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms",
-      "stars": 1219,
+      "stars": 1223,
       "forks": 206,
-      "open_issues": 17,
+      "open_issues": 18,
       "language": "C++",
       "topics": [
         "code-generation",
@@ -5336,8 +5330,8 @@
         "trajectory-optimization"
       ],
       "created_at": "2019-06-04T11:46:13Z",
-      "updated_at": "2026-05-30T13:08:11Z",
-      "pushed_at": "2026-05-26T04:48:25Z",
+      "updated_at": "2026-06-02T00:16:49Z",
+      "pushed_at": "2026-06-01T21:46:33Z",
       "license": "BSD-3-Clause",
       "homepage": "",
       "readme_length": 17219,
@@ -5366,8 +5360,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "560469540": {
       "repo_id": 560469540,
@@ -5376,13 +5370,13 @@
       "owner": "facebookresearch",
       "html_url": "https://github.com/facebookresearch/home-robot",
       "description": "Mobile manipulation research tools for roboticists",
-      "stars": 1208,
+      "stars": 1207,
       "forks": 152,
       "open_issues": 54,
       "language": "Python",
       "topics": [],
       "created_at": "2022-11-01T15:13:11Z",
-      "updated_at": "2026-05-31T15:45:50Z",
+      "updated_at": "2026-06-01T05:57:06Z",
       "pushed_at": "2024-06-08T09:34:05Z",
       "license": "MIT",
       "homepage": "",
@@ -5406,12 +5400,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.8,
         "matched_keywords": [
-          "ROS",
-          "tools"
+          "tools",
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "513357615": {
       "repo_id": 513357615,
@@ -5446,7 +5440,7 @@
           "Mujoco"
         ]
       },
-      "activity_score": 65.0,
+      "activity_score": 60.0,
       "key_sentences": [
         "Training a humanoid robot for locomotion using Reinforcement Learning",
         "<a href=\"https://www.youtube.com/watch?v=ZgfNzGAkk2Q\"><img src=\"https://github.com/user-attachments/assets/5211cdcd-2267-497b-bd66-ac833703a134\" alt=\"humanoid-walk\" style=\"width:1000px\"/></a>",
@@ -5461,8 +5455,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "95383816": {
       "repo_id": 95383816,
@@ -5493,9 +5487,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "ros_distro": [
@@ -5519,8 +5513,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "179233090": {
       "repo_id": 179233090,
@@ -5544,9 +5538,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ]
       },
@@ -5564,8 +5558,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "329913731": {
       "repo_id": 329913731,
@@ -5580,7 +5574,7 @@
       "language": "Python",
       "topics": [],
       "created_at": "2021-01-15T13:02:56Z",
-      "updated_at": "2026-05-30T04:15:36Z",
+      "updated_at": "2026-06-01T10:18:41Z",
       "pushed_at": "2026-04-20T08:44:50Z",
       "license": "MIT",
       "homepage": "",
@@ -5613,8 +5607,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "216847240": {
       "repo_id": 216847240,
@@ -5678,8 +5672,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "190376150": {
       "repo_id": 190376150,
@@ -5688,7 +5682,7 @@
       "owner": "msadowski",
       "html_url": "https://github.com/msadowski/awesome-weekly-robotics",
       "description": "A list of projects that were or will be featured in Weekly Robotics newsletter",
-      "stars": 1038,
+      "stars": 1043,
       "forks": 92,
       "open_issues": 4,
       "language": null,
@@ -5708,7 +5702,7 @@
         "weekly-robotics"
       ],
       "created_at": "2019-06-05T10:38:39Z",
-      "updated_at": "2026-05-31T20:20:24Z",
+      "updated_at": "2026-06-01T16:49:10Z",
       "pushed_at": "2026-05-31T20:20:18Z",
       "license": null,
       "homepage": "https://weeklyrobotics.com/",
@@ -5717,22 +5711,22 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "simulation": [
           "Isaac Sim"
         ],
         "ml_framework": [
-          "Open3D",
-          "PCL"
+          "PCL",
+          "Open3D"
         ],
         "hardware": [
+          "Arduino",
           "ESP32",
-          "Raspberry Pi",
-          "Arduino"
+          "Raspberry Pi"
         ]
       },
       "activity_score": 60.0,
@@ -5750,8 +5744,8 @@
           "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "857882804": {
       "repo_id": 857882804,
@@ -5760,7 +5754,7 @@
       "owner": "LeCAR-Lab",
       "html_url": "https://github.com/LeCAR-Lab/dial-mpc",
       "description": "Official implementation for the paper \"Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing\". DIAL-MPC is a novel sampling-based MPC framework for legged robot full-order torque-level control with both precision and agility in a training-free manner.",
-      "stars": 976,
+      "stars": 975,
       "forks": 99,
       "open_issues": 17,
       "language": "Python",
@@ -5775,7 +5769,7 @@
         "sampling-based-control"
       ],
       "created_at": "2024-09-15T21:07:20Z",
-      "updated_at": "2026-05-28T03:07:45Z",
+      "updated_at": "2026-06-01T21:27:05Z",
       "pushed_at": "2025-05-28T15:37:26Z",
       "license": "Apache-2.0",
       "homepage": "https://lecar-lab.github.io/dial-mpc/",
@@ -5805,12 +5799,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.8,
         "matched_keywords": [
-          "framework",
-          "mujoco"
+          "mujoco",
+          "framework"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "5860736": {
       "repo_id": 5860736,
@@ -5844,12 +5838,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.6,
         "matched_keywords": [
-          "framework",
-          "ROS"
+          "ROS",
+          "framework"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "293365149": {
       "repo_id": 293365149,
@@ -5858,8 +5852,8 @@
       "owner": "okalachev",
       "html_url": "https://github.com/okalachev/flix",
       "description": "Making an ESP32-based quadcopter from scratch",
-      "stars": 934,
-      "forks": 184,
+      "stars": 935,
+      "forks": 185,
       "open_issues": 1,
       "language": "C++",
       "topics": [
@@ -5876,7 +5870,7 @@
         "uav"
       ],
       "created_at": "2020-09-06T21:33:57Z",
-      "updated_at": "2026-05-31T15:10:08Z",
+      "updated_at": "2026-06-01T19:10:35Z",
       "pushed_at": "2026-05-31T15:10:04Z",
       "license": null,
       "homepage": "https://t.me/opensourcequadcopter",
@@ -5888,8 +5882,8 @@
           "Gazebo"
         ],
         "hardware": [
-          "ESP32",
-          "Arduino"
+          "Arduino",
+          "ESP32"
         ]
       },
       "activity_score": 60.0,
@@ -5903,12 +5897,63 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
+    },
+    "1088881030": {
+      "repo_id": 1088881030,
+      "full_name": "liyiteng/AlohaMini",
+      "name": "AlohaMini",
+      "owner": "liyiteng",
+      "html_url": "https://github.com/liyiteng/AlohaMini",
+      "description": "Open-Source Dual-Arm Mobile Robot with Motorized Lift",
+      "stars": 928,
+      "forks": 109,
+      "open_issues": 5,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2025-11-03T15:29:56Z",
+      "updated_at": "2026-06-01T22:02:30Z",
+      "pushed_at": "2026-04-02T06:54:52Z",
+      "license": "Apache-2.0",
+      "homepage": "",
+      "readme_length": 3977,
+      "has_installation_guide": true,
+      "has_demo": true,
+      "detected_tech": {
+        "ros": [
+          "ROS",
+          "ros"
+        ],
+        "simulation": [
+          "Gazebo"
+        ],
+        "hardware": [
+          "Raspberry Pi",
+          "Jetson"
+        ]
+      },
+      "activity_score": 50.0,
+      "key_sentences": [
+        "Open-Source Dual-Arm Mobile Robot with Motorized Lift",
+        "AlohaMini is a dual-arm mobile robot with a motorized vertical lift — beautifully designed, fully 3D-printable, and affordable.",
+        "Built for embodied AI research and real-world manipulation. Assemble at home in ~60 minutes, customize every part, and train or deploy with LeRobot."
+      ],
+      "category": {
+        "category_id": "tools_sim",
+        "category_name": "🔧 工具/仿真平台",
+        "confidence": 0.8,
+        "matched_keywords": [
+          "gazebo",
+          "ROS"
+        ]
+      },
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "743811280": {
       "repo_id": 743811280,
@@ -5955,59 +6000,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
-    },
-    "1088881030": {
-      "repo_id": 1088881030,
-      "full_name": "liyiteng/AlohaMini",
-      "name": "AlohaMini",
-      "owner": "liyiteng",
-      "html_url": "https://github.com/liyiteng/AlohaMini",
-      "description": "Open-Source Dual-Arm Mobile Robot with Motorized Lift",
-      "stars": 926,
-      "forks": 109,
-      "open_issues": 5,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2025-11-03T15:29:56Z",
-      "updated_at": "2026-05-29T08:21:47Z",
-      "pushed_at": "2026-04-02T06:54:52Z",
-      "license": "Apache-2.0",
-      "homepage": "",
-      "readme_length": 3977,
-      "has_installation_guide": true,
-      "has_demo": true,
-      "detected_tech": {
-        "ros": [
-          "ROS",
-          "ros"
-        ],
-        "simulation": [
-          "Gazebo"
-        ],
-        "hardware": [
-          "Jetson",
-          "Raspberry Pi"
-        ]
-      },
-      "activity_score": 50.0,
-      "key_sentences": [
-        "Open-Source Dual-Arm Mobile Robot with Motorized Lift",
-        "AlohaMini is a dual-arm mobile robot with a motorized vertical lift — beautifully designed, fully 3D-printable, and affordable.",
-        "Built for embodied AI research and real-world manipulation. Assemble at home in ~60 minutes, customize every part, and train or deploy with LeRobot."
-      ],
-      "category": {
-        "category_id": "tools_sim",
-        "category_name": "🔧 工具/仿真平台",
-        "confidence": 0.8,
-        "matched_keywords": [
-          "ROS",
-          "gazebo"
-        ]
-      },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "392438862": {
       "repo_id": 392438862,
@@ -6016,7 +6010,7 @@
       "owner": "linorobot",
       "html_url": "https://github.com/linorobot/linorobot2",
       "description": "Autonomous mobile robots (2WD, 4WD, Mecanum Drive)",
-      "stars": 903,
+      "stars": 905,
       "forks": 232,
       "open_issues": 53,
       "language": "Python",
@@ -6036,7 +6030,7 @@
         "ros2"
       ],
       "created_at": "2021-08-03T19:54:54Z",
-      "updated_at": "2026-05-31T13:58:25Z",
+      "updated_at": "2026-06-02T00:45:18Z",
       "pushed_at": "2026-04-15T08:07:02Z",
       "license": "Apache-2.0",
       "homepage": "",
@@ -6045,9 +6039,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "simulation": [
@@ -6065,13 +6059,13 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 1.0,
         "matched_keywords": [
-          "autonomous",
           "mobile robot",
-          "AMR"
+          "AMR",
+          "autonomous"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1204739178": {
       "repo_id": 1204739178,
@@ -6080,13 +6074,13 @@
       "owner": "asimovinc",
       "html_url": "https://github.com/asimovinc/asimov-1",
       "description": "v1 of Asimov, an open-source humanoid robot ",
-      "stars": 859,
-      "forks": 127,
+      "stars": 870,
+      "forks": 132,
       "open_issues": 2,
       "language": "Python",
       "topics": [],
       "created_at": "2026-04-08T09:33:14Z",
-      "updated_at": "2026-05-31T20:23:32Z",
+      "updated_at": "2026-06-01T23:21:02Z",
       "pushed_at": "2026-05-18T02:38:41Z",
       "license": "CERN-OHL-S-2.0",
       "homepage": "https://manual.asimov.inc/v1",
@@ -6115,8 +6109,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "173430270": {
       "repo_id": 173430270,
@@ -6166,8 +6160,8 @@
           "navigation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "867592911": {
       "repo_id": 867592911,
@@ -6204,8 +6198,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "851470959": {
       "repo_id": 851470959,
@@ -6214,7 +6208,7 @@
       "owner": "zeroth-robotics",
       "html_url": "https://github.com/zeroth-robotics/zeroth-bot",
       "description": "3D-printed open-source humanoid robot platform for sim-to-real and RL",
-      "stars": 785,
+      "stars": 786,
       "forks": 125,
       "open_issues": 3,
       "language": null,
@@ -6225,7 +6219,7 @@
         "simulation"
       ],
       "created_at": "2024-09-03T06:48:40Z",
-      "updated_at": "2026-05-31T15:23:14Z",
+      "updated_at": "2026-06-01T22:14:49Z",
       "pushed_at": "2025-05-24T02:12:38Z",
       "license": "MIT",
       "homepage": "https://docs.zeroth.bot",
@@ -6247,8 +6241,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1142971312": {
       "repo_id": 1142971312,
@@ -6293,8 +6287,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "501123243": {
       "repo_id": 501123243,
@@ -6350,8 +6344,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "274975229": {
       "repo_id": 274975229,
@@ -6393,17 +6387,17 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "ros_distro": [
           "Noetic"
         ],
         "simulation": [
-          "Mujoco",
           "Isaac Sim",
+          "Mujoco",
           "Gazebo"
         ]
       },
@@ -6418,14 +6412,14 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
-          "ROS",
+          "mujoco",
           "gazebo",
-          "isaac",
-          "mujoco"
+          "ROS",
+          "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "825447170": {
       "repo_id": 825447170,
@@ -6460,7 +6454,7 @@
           "PID"
         ]
       },
-      "activity_score": 50.0,
+      "activity_score": 45.0,
       "key_sentences": [
         "A minimal quadrotor autonomy framework in Rust (Mac, Linux, Windows)",
         "Peng is a minimal quadrotor autonomy framework written in Rust that provides real-time dynamics simulation, trajectory planning, and control with modern visualization capabilities.",
@@ -6471,12 +6465,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1118986828": {
       "repo_id": 1118986828,
@@ -6485,13 +6479,13 @@
       "owner": "AIM-Intelligence",
       "html_url": "https://github.com/AIM-Intelligence/video2robot",
       "description": "End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot motions",
-      "stars": 687,
+      "stars": 688,
       "forks": 85,
       "open_issues": 5,
       "language": "Python",
       "topics": [],
       "created_at": "2025-12-18T15:15:33Z",
-      "updated_at": "2026-05-30T15:31:22Z",
+      "updated_at": "2026-06-01T02:16:10Z",
       "pushed_at": "2025-12-18T15:28:52Z",
       "license": "NOASSERTION",
       "homepage": "",
@@ -6513,8 +6507,119 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
+    },
+    "76990241": {
+      "repo_id": 76990241,
+      "full_name": "CopterExpress/clover",
+      "name": "clover",
+      "owner": "CopterExpress",
+      "html_url": "https://github.com/CopterExpress/clover",
+      "description": "ROS-based framework and RPi image to control PX4-powered drones 🍀",
+      "stars": 604,
+      "forks": 309,
+      "open_issues": 14,
+      "language": "C++",
+      "topics": [
+        "aruco",
+        "computer-vision",
+        "drone",
+        "education",
+        "mavros",
+        "optical-flow",
+        "px4",
+        "quadcopter",
+        "raspberry-pi",
+        "robotics",
+        "ros"
+      ],
+      "created_at": "2016-12-20T20:42:56Z",
+      "updated_at": "2026-06-01T23:41:36Z",
+      "pushed_at": "2026-04-14T14:31:20Z",
+      "license": "MIT",
+      "homepage": "https://clovercoex.tech",
+      "readme_length": 3125,
+      "has_installation_guide": false,
+      "has_demo": true,
+      "detected_tech": {
+        "ros": [
+          "ROS",
+          "ros"
+        ],
+        "hardware": [
+          "Raspberry Pi"
+        ]
+      },
+      "activity_score": 55.0,
+      "key_sentences": [
+        "ROS-based framework and RPi image to control PX4-powered drones 🍀",
+        "<img src=\"docs/assets/clover42-main-margin.png\" align=\"right\" width=\"400px\" alt=\"COEX Clover Drone\">",
+        "Clover is an open source [ROS](https://www.ros.org)-based framework, providing user-friendly tools to control [PX4](https://px4.io)-powered drones. Clover is available as a ROS package, but is shipped mainly as a preconfigured image for Raspberry Pi. Once you've installed Raspberry Pi on your drone and flashed the image to its microSD card, taking the drone up in the air is a matter of minutes."
+      ],
+      "category": {
+        "category_id": "tools_sim",
+        "category_name": "🔧 工具/仿真平台",
+        "confidence": 1.0,
+        "matched_keywords": [
+          "tools",
+          "ROS",
+          "framework"
+        ]
+      },
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
+    },
+    "884096620": {
+      "repo_id": 884096620,
+      "full_name": "jimmyyhwu/tidybot2",
+      "name": "tidybot2",
+      "owner": "jimmyyhwu",
+      "html_url": "https://github.com/jimmyyhwu/tidybot2",
+      "description": "TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning",
+      "stars": 593,
+      "forks": 65,
+      "open_issues": 0,
+      "language": "Python",
+      "topics": [
+        "holonomic",
+        "imitation-learning",
+        "mobile-manipulation",
+        "robot-learning",
+        "robotics"
+      ],
+      "created_at": "2024-11-06T06:10:44Z",
+      "updated_at": "2026-06-01T08:06:10Z",
+      "pushed_at": "2025-12-18T10:53:38Z",
+      "license": "MIT",
+      "homepage": "https://tidybot2.github.io",
+      "readme_length": 32759,
+      "has_installation_guide": true,
+      "has_demo": true,
+      "detected_tech": {
+        "simulation": [
+          "Mujoco"
+        ],
+        "ml_framework": [
+          "OpenCV"
+        ]
+      },
+      "activity_score": 35.0,
+      "key_sentences": [
+        "TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning",
+        "This code release accompanies the following project:",
+        "Jimmy Wu, William Chong, Robert Holmberg, Aaditya Prasad, Yihuai Gao, Oussama Khatib, Shuran Song, Szymon Rusinkiewicz, Jeannette Bohg"
+      ],
+      "category": {
+        "category_id": "manipulator",
+        "category_name": "🦾 机械臂/运动控制",
+        "confidence": 0.4,
+        "matched_keywords": [
+          "manipulator"
+        ]
+      },
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "73250362": {
       "repo_id": 73250362,
@@ -6562,119 +6667,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
-    },
-    "884096620": {
-      "repo_id": 884096620,
-      "full_name": "jimmyyhwu/tidybot2",
-      "name": "tidybot2",
-      "owner": "jimmyyhwu",
-      "html_url": "https://github.com/jimmyyhwu/tidybot2",
-      "description": "TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning",
-      "stars": 591,
-      "forks": 65,
-      "open_issues": 0,
-      "language": "Python",
-      "topics": [
-        "holonomic",
-        "imitation-learning",
-        "mobile-manipulation",
-        "robot-learning",
-        "robotics"
-      ],
-      "created_at": "2024-11-06T06:10:44Z",
-      "updated_at": "2026-05-29T15:36:51Z",
-      "pushed_at": "2025-12-18T10:53:38Z",
-      "license": "MIT",
-      "homepage": "https://tidybot2.github.io",
-      "readme_length": 32759,
-      "has_installation_guide": true,
-      "has_demo": true,
-      "detected_tech": {
-        "simulation": [
-          "Mujoco"
-        ],
-        "ml_framework": [
-          "OpenCV"
-        ]
-      },
-      "activity_score": 35.0,
-      "key_sentences": [
-        "TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning",
-        "This code release accompanies the following project:",
-        "Jimmy Wu, William Chong, Robert Holmberg, Aaditya Prasad, Yihuai Gao, Oussama Khatib, Shuran Song, Szymon Rusinkiewicz, Jeannette Bohg"
-      ],
-      "category": {
-        "category_id": "manipulator",
-        "category_name": "🦾 机械臂/运动控制",
-        "confidence": 0.4,
-        "matched_keywords": [
-          "manipulator"
-        ]
-      },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
-    },
-    "76990241": {
-      "repo_id": 76990241,
-      "full_name": "CopterExpress/clover",
-      "name": "clover",
-      "owner": "CopterExpress",
-      "html_url": "https://github.com/CopterExpress/clover",
-      "description": "ROS-based framework and RPi image to control PX4-powered drones 🍀",
-      "stars": 577,
-      "forks": 303,
-      "open_issues": 14,
-      "language": "C++",
-      "topics": [
-        "aruco",
-        "computer-vision",
-        "drone",
-        "education",
-        "mavros",
-        "optical-flow",
-        "px4",
-        "quadcopter",
-        "raspberry-pi",
-        "robotics",
-        "ros"
-      ],
-      "created_at": "2016-12-20T20:42:56Z",
-      "updated_at": "2026-06-01T01:49:13Z",
-      "pushed_at": "2026-04-14T14:31:20Z",
-      "license": "MIT",
-      "homepage": "https://clovercoex.tech",
-      "readme_length": 3125,
-      "has_installation_guide": false,
-      "has_demo": true,
-      "detected_tech": {
-        "ros": [
-          "ROS",
-          "ros"
-        ],
-        "hardware": [
-          "Raspberry Pi"
-        ]
-      },
-      "activity_score": 55.0,
-      "key_sentences": [
-        "ROS-based framework and RPi image to control PX4-powered drones 🍀",
-        "<img src=\"docs/assets/clover42-main-margin.png\" align=\"right\" width=\"400px\" alt=\"COEX Clover Drone\">",
-        "Clover is an open source [ROS](https://www.ros.org)-based framework, providing user-friendly tools to control [PX4](https://px4.io)-powered drones. Clover is available as a ROS package, but is shipped mainly as a preconfigured image for Raspberry Pi. Once you've installed Raspberry Pi on your drone and flashed the image to its microSD card, taking the drone up in the air is a matter of minutes."
-      ],
-      "category": {
-        "category_id": "tools_sim",
-        "category_name": "🔧 工具/仿真平台",
-        "confidence": 1.0,
-        "matched_keywords": [
-          "framework",
-          "tools",
-          "ROS"
-        ]
-      },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "814423928": {
       "repo_id": 814423928,
@@ -6711,8 +6705,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "702744026": {
       "repo_id": 702744026,
@@ -6766,13 +6760,13 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
+          "gazebo",
           "ROS",
-          "simulation",
-          "gazebo"
+          "simulation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "89567040": {
       "repo_id": 89567040,
@@ -6782,7 +6776,7 @@
       "html_url": "https://github.com/ROBOTIS-GIT/turtlebot3_simulations",
       "description": "Simulations for TurtleBot3",
       "stars": 506,
-      "forks": 556,
+      "forks": 557,
       "open_issues": 13,
       "language": "C++",
       "topics": [
@@ -6831,70 +6825,71 @@
         "category_name": "🧠 AI / 机器人大脑",
         "confidence": 1.0,
         "matched_keywords": [
-          "navigation",
-          "SLAM",
-          "perception"
-        ]
-      },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
-    },
-    "169895457": {
-      "repo_id": 169895457,
-      "full_name": "shannon112/awesome-ros-mobile-robot",
-      "name": "awesome-ros-mobile-robot",
-      "owner": "shannon112",
-      "html_url": "https://github.com/shannon112/awesome-ros-mobile-robot",
-      "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
-      "stars": 492,
-      "forks": 103,
-      "open_issues": 9,
-      "language": null,
-      "topics": [
-        "awesome-list",
-        "manipulation",
-        "mobile-robots",
-        "navigation",
-        "odometry",
-        "robotics",
-        "ros",
-        "slam"
-      ],
-      "created_at": "2019-02-09T17:54:40Z",
-      "updated_at": "2026-05-30T13:53:52Z",
-      "pushed_at": "2025-10-31T18:40:12Z",
-      "license": null,
-      "homepage": "",
-      "readme_length": 56148,
-      "has_installation_guide": false,
-      "has_demo": true,
-      "detected_tech": {
-        "ros": [
-          "ROS",
-          "ros"
-        ],
-        "hardware": [
-          "Jetson",
-          "Raspberry Pi"
-        ]
-      },
-      "activity_score": 35.0,
-      "key_sentences": [
-        "😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
-        "This repository provides some useful resources and informations about **autonomous mobile robots (AMR)** research based on **ROS**. It would mainly focus on basic function of mobile robots(like **odometry**, **SLAM**, **navigation** and **manipulation**).",
-        "(including both **Chinese** and **English** materials)"
-      ],
-      "category": {
-        "category_id": "ai_brain",
-        "category_name": "🧠 AI / 机器人大脑",
-        "confidence": 0.8,
-        "matched_keywords": [
+          "perception",
           "navigation",
           "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
+    },
+    "1065946771": {
+      "repo_id": 1065946771,
+      "full_name": "HansZ8/RoboJuDo",
+      "name": "RoboJuDo",
+      "owner": "HansZ8",
+      "html_url": "https://github.com/HansZ8/RoboJuDo",
+      "description": "A plug-and-play deploy framework for robots. Just deploy, just do.",
+      "stars": 492,
+      "forks": 72,
+      "open_issues": 15,
+      "language": "Python",
+      "topics": [
+        "amo",
+        "asap",
+        "beyondmimic",
+        "deploy",
+        "g1",
+        "h1",
+        "human2humanoid",
+        "humanoid",
+        "kungfubot",
+        "kungfubot2",
+        "pbhc",
+        "robot",
+        "twist",
+        "unitree"
+      ],
+      "created_at": "2025-09-28T18:44:32Z",
+      "updated_at": "2026-06-01T09:34:50Z",
+      "pushed_at": "2026-05-22T15:20:15Z",
+      "license": "NOASSERTION",
+      "homepage": "",
+      "readme_length": 17001,
+      "has_installation_guide": false,
+      "has_demo": true,
+      "detected_tech": {
+        "simulation": [
+          "Mujoco"
+        ]
+      },
+      "activity_score": 50.0,
+      "key_sentences": [
+        "A plug-and-play deploy framework for robots. Just deploy, just do.",
+        "<div align=\"center\">",
+        "*A plug-and-play deploy framework for robots. Just deploy, just do.*"
+      ],
+      "category": {
+        "category_id": "tools_sim",
+        "category_name": "🔧 工具/仿真平台",
+        "confidence": 0.8,
+        "matched_keywords": [
+          "mujoco",
+          "framework"
+        ]
+      },
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "828673273": {
       "repo_id": 828673273,
@@ -6940,66 +6935,65 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
-    "1065946771": {
-      "repo_id": 1065946771,
-      "full_name": "HansZ8/RoboJuDo",
-      "name": "RoboJuDo",
-      "owner": "HansZ8",
-      "html_url": "https://github.com/HansZ8/RoboJuDo",
-      "description": "A plug-and-play deploy framework for robots. Just deploy, just do.",
+    "169895457": {
+      "repo_id": 169895457,
+      "full_name": "shannon112/awesome-ros-mobile-robot",
+      "name": "awesome-ros-mobile-robot",
+      "owner": "shannon112",
+      "html_url": "https://github.com/shannon112/awesome-ros-mobile-robot",
+      "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
       "stars": 489,
-      "forks": 70,
-      "open_issues": 15,
-      "language": "Python",
+      "forks": 103,
+      "open_issues": 9,
+      "language": null,
       "topics": [
-        "amo",
-        "asap",
-        "beyondmimic",
-        "deploy",
-        "g1",
-        "h1",
-        "human2humanoid",
-        "humanoid",
-        "kungfubot",
-        "kungfubot2",
-        "pbhc",
-        "robot",
-        "twist",
-        "unitree"
+        "awesome-list",
+        "manipulation",
+        "mobile-robots",
+        "navigation",
+        "odometry",
+        "robotics",
+        "ros",
+        "slam"
       ],
-      "created_at": "2025-09-28T18:44:32Z",
-      "updated_at": "2026-05-29T16:32:14Z",
-      "pushed_at": "2026-05-22T15:20:15Z",
-      "license": "NOASSERTION",
+      "created_at": "2019-02-09T17:54:40Z",
+      "updated_at": "2026-06-01T11:30:05Z",
+      "pushed_at": "2025-10-31T18:40:12Z",
+      "license": null,
       "homepage": "",
-      "readme_length": 17001,
+      "readme_length": 56148,
       "has_installation_guide": false,
       "has_demo": true,
       "detected_tech": {
-        "simulation": [
-          "Mujoco"
+        "ros": [
+          "ROS",
+          "ros"
+        ],
+        "hardware": [
+          "Raspberry Pi",
+          "Jetson"
         ]
       },
-      "activity_score": 50.0,
+      "activity_score": 35.0,
       "key_sentences": [
-        "A plug-and-play deploy framework for robots. Just deploy, just do.",
-        "<div align=\"center\">",
-        "*A plug-and-play deploy framework for robots. Just deploy, just do.*"
+        "😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
+        "This repository provides some useful resources and informations about **autonomous mobile robots (AMR)** research based on **ROS**. It would mainly focus on basic function of mobile robots(like **odometry**, **SLAM**, **navigation** and **manipulation**).",
+        "(including both **Chinese** and **English** materials)"
       ],
       "category": {
-        "category_id": "tools_sim",
-        "category_name": "🔧 工具/仿真平台",
+        "category_id": "ai_brain",
+        "category_name": "🧠 AI / 机器人大脑",
         "confidence": 0.8,
         "matched_keywords": [
-          "framework",
-          "mujoco"
+          "navigation",
+          "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "427408681": {
       "repo_id": 427408681,
@@ -7008,7 +7002,7 @@
       "owner": "qqqlab",
       "html_url": "https://github.com/qqqlab/madflight",
       "description": "Flight Controller for ESP32 / Raspberry Pico / STM32",
-      "stars": 439,
+      "stars": 441,
       "forks": 75,
       "open_issues": 7,
       "language": "C",
@@ -7032,7 +7026,7 @@
         "vtol"
       ],
       "created_at": "2021-11-12T15:31:11Z",
-      "updated_at": "2026-05-30T16:04:33Z",
+      "updated_at": "2026-06-01T14:36:59Z",
       "pushed_at": "2026-05-18T08:35:08Z",
       "license": "MIT",
       "homepage": "https://madflight.com",
@@ -7041,8 +7035,8 @@
       "has_demo": false,
       "detected_tech": {
         "hardware": [
-          "STM32",
           "ESP32",
+          "STM32",
           "Raspberry Pi"
         ]
       },
@@ -7057,12 +7051,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1094772849": {
       "repo_id": 1094772849,
@@ -7071,13 +7065,13 @@
       "owner": "TeleHuman",
       "html_url": "https://github.com/TeleHuman/TextOp",
       "description": "TextOp: Real-time Interactive Text-Driven Humanoid Robot Motion Generation and Control",
-      "stars": 404,
+      "stars": 406,
       "forks": 35,
       "open_issues": 1,
       "language": "Python",
       "topics": [],
       "created_at": "2025-11-12T06:36:25Z",
-      "updated_at": "2026-06-01T00:20:53Z",
+      "updated_at": "2026-06-01T10:31:35Z",
       "pushed_at": "2026-02-07T20:52:09Z",
       "license": "MIT",
       "homepage": "https://text-op.github.io/",
@@ -7099,8 +7093,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "993079543": {
       "repo_id": 993079543,
@@ -7109,8 +7103,8 @@
       "owner": "dfl-rlab",
       "html_url": "https://github.com/dfl-rlab/dddmr_navigation",
       "description": "dddmr_navigation is the 3D navigation solution for mobile robots includes mapping/localization/perception/path planning/controller/move base",
-      "stars": 401,
-      "forks": 57,
+      "stars": 402,
+      "forks": 58,
       "open_issues": 47,
       "language": "C++",
       "topics": [
@@ -7128,8 +7122,8 @@
         "yolo11"
       ],
       "created_at": "2025-05-30T07:18:08Z",
-      "updated_at": "2026-05-31T11:07:05Z",
-      "pushed_at": "2026-05-31T11:07:10Z",
+      "updated_at": "2026-06-01T15:23:12Z",
+      "pushed_at": "2026-06-01T14:49:33Z",
       "license": "BSD-3-Clause",
       "homepage": "",
       "readme_length": 7482,
@@ -7151,14 +7145,14 @@
         "category_name": "🧠 AI / 机器人大脑",
         "confidence": 1.0,
         "matched_keywords": [
-          "navigation",
           "perception",
-          "SLAM",
-          "path planning"
+          "path planning",
+          "navigation",
+          "SLAM"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "22798093": {
       "repo_id": 22798093,
@@ -7193,9 +7187,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "ros_distro": [
@@ -7217,14 +7211,14 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
-          "ROS",
-          "simulation",
           "gazebo",
-          "simulator"
+          "simulator",
+          "simulation",
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "40306082": {
       "repo_id": 40306082,
@@ -7269,12 +7263,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.6,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1177953619": {
       "repo_id": 1177953619,
@@ -7283,7 +7277,7 @@
       "owner": "NVIDIA",
       "html_url": "https://github.com/NVIDIA/soma-retargeter",
       "description": "SOMA BVH to humanoid robot motion retargeting library built with Newton and NVIDIA Warp",
-      "stars": 391,
+      "stars": 395,
       "forks": 53,
       "open_issues": 8,
       "language": "Python",
@@ -7294,7 +7288,7 @@
         "retargeting-motion"
       ],
       "created_at": "2026-03-10T14:40:22Z",
-      "updated_at": "2026-06-01T02:00:54Z",
+      "updated_at": "2026-06-01T19:17:41Z",
       "pushed_at": "2026-03-25T19:16:19Z",
       "license": "Apache-2.0",
       "homepage": "",
@@ -7316,8 +7310,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "369013619": {
       "repo_id": 369013619,
@@ -7358,8 +7352,8 @@
       "has_demo": false,
       "detected_tech": {
         "hardware": [
-          "STM32",
-          "ESP32"
+          "ESP32",
+          "STM32"
         ]
       },
       "activity_score": 40.0,
@@ -7373,12 +7367,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "448896667": {
       "repo_id": 448896667,
@@ -7397,8 +7391,8 @@
         "ros"
       ],
       "created_at": "2022-01-17T13:04:18Z",
-      "updated_at": "2026-05-24T13:47:49Z",
-      "pushed_at": "2026-05-24T13:47:47Z",
+      "updated_at": "2026-06-01T21:23:15Z",
+      "pushed_at": "2026-06-01T21:22:58Z",
       "license": "MIT",
       "homepage": "https://pyrobosim.readthedocs.io/",
       "readme_length": 928,
@@ -7410,7 +7404,7 @@
           "ros"
         ]
       },
-      "activity_score": 45.0,
+      "activity_score": 50.0,
       "key_sentences": [
         "ROS 2 enabled 2D mobile robot simulator for behavior prototyping.",
         "ROS 2 enabled 2D mobile robot simulator for behavior prototyping.",
@@ -7421,12 +7415,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.8,
         "matched_keywords": [
-          "ROS",
-          "simulator"
+          "simulator",
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "659783374": {
       "repo_id": 659783374,
@@ -7462,9 +7456,9 @@
       "has_demo": false,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "ros_distro": [
@@ -7487,15 +7481,15 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
-          "simulation",
-          "isaac",
+          "gazebo",
           "simulator",
           "ROS",
-          "gazebo"
+          "simulation",
+          "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1078093679": {
       "repo_id": 1078093679,
@@ -7530,8 +7524,8 @@
         "rust"
       ],
       "created_at": "2025-10-17T07:43:47Z",
-      "updated_at": "2026-05-30T05:16:20Z",
-      "pushed_at": "2026-05-29T21:35:18Z",
+      "updated_at": "2026-06-01T16:11:50Z",
+      "pushed_at": "2026-06-01T15:50:49Z",
       "license": "Apache-2.0",
       "homepage": "https://docs.horusrobotics.dev/",
       "readme_length": 13000,
@@ -7539,9 +7533,9 @@
       "has_demo": false,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "control": [
@@ -7559,13 +7553,60 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
-          "framework",
+          "middleware",
           "ROS",
-          "middleware"
+          "framework"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
+    },
+    "1243062666": {
+      "repo_id": 1243062666,
+      "full_name": "Open-X-Humanoid/HEX",
+      "name": "HEX",
+      "owner": "Open-X-Humanoid",
+      "html_url": "https://github.com/Open-X-Humanoid/HEX",
+      "description": "HEX is a whole-body vision-language-action framework for full-sized humanoid robots. ",
+      "stars": 357,
+      "forks": 13,
+      "open_issues": 0,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "cross-embodiment",
+        "embodied-ai",
+        "humanoid-robotics",
+        "imitation-learning",
+        "multimodal-ai",
+        "vision-language-action-model",
+        "vla-model",
+        "whole-body-manipulation"
+      ],
+      "created_at": "2026-05-19T02:39:19Z",
+      "updated_at": "2026-06-01T06:42:05Z",
+      "pushed_at": "2026-05-26T04:10:01Z",
+      "license": null,
+      "homepage": "",
+      "readme_length": 11136,
+      "has_installation_guide": true,
+      "has_demo": false,
+      "detected_tech": {},
+      "activity_score": 45.0,
+      "key_sentences": [
+        "HEX is a whole-body vision-language-action framework for full-sized humanoid robots.",
+        "<h1 align=\"center\">HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation</h1>",
+        "<div align=\"center\">"
+      ],
+      "category": {
+        "category_id": "humanoid",
+        "category_name": "🚶 人形/服务机器人",
+        "confidence": 0.4,
+        "matched_keywords": [
+          "humanoid"
+        ]
+      },
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "67018317": {
       "repo_id": 67018317,
@@ -7608,12 +7649,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "autonomous",
-          "mobile robot"
+          "mobile robot",
+          "autonomous"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "848665860": {
       "repo_id": 848665860,
@@ -7657,8 +7698,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "872423144": {
       "repo_id": 872423144,
@@ -7690,9 +7731,9 @@
       "has_demo": false,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ]
       },
@@ -7710,8 +7751,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "50613360": {
       "repo_id": 50613360,
@@ -7722,7 +7763,7 @@
       "description": "Robotics software featuring legged locomotion algorithms and a momentum-based controller core with optimization. Supporting software for world-class robots including humanoids, running birds, exoskeletons, mechs and more.",
       "stars": 315,
       "forks": 108,
-      "open_issues": 28,
+      "open_issues": 29,
       "language": "Java",
       "topics": [
         "humanoid-robot",
@@ -7734,7 +7775,7 @@
       ],
       "created_at": "2016-01-28T21:00:16Z",
       "updated_at": "2026-05-26T23:08:24Z",
-      "pushed_at": "2026-05-29T22:04:04Z",
+      "pushed_at": "2026-06-01T20:52:06Z",
       "license": null,
       "homepage": "https://robots.ihmc.us",
       "readme_length": 9307,
@@ -7760,8 +7801,8 @@
           "humanoid"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "930996429": {
       "repo_id": 930996429,
@@ -7814,8 +7855,8 @@
           "navigation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "585068089": {
       "repo_id": 585068089,
@@ -7849,12 +7890,56 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "autonomous",
-          "mobile robot"
+          "mobile robot",
+          "autonomous"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
+    },
+    "1204330026": {
+      "repo_id": 1204330026,
+      "full_name": "NVlabs/GR00T-VisualSim2Real",
+      "name": "GR00T-VisualSim2Real",
+      "owner": "NVlabs",
+      "html_url": "https://github.com/NVlabs/GR00T-VisualSim2Real",
+      "description": "GR00T-VisualSim2Real: Open-source sim-to-real framework for humanoid visual loco-manipulation. Train in simulation, deploy zero-shot on real robots with RGB + proprioception for tasks like pick-and-place and door opening.",
+      "stars": 286,
+      "forks": 23,
+      "open_issues": 3,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-07T23:03:57Z",
+      "updated_at": "2026-06-01T14:35:36Z",
+      "pushed_at": "2026-04-20T17:32:28Z",
+      "license": "Apache-2.0",
+      "homepage": null,
+      "readme_length": 11356,
+      "has_installation_guide": true,
+      "has_demo": true,
+      "detected_tech": {
+        "simulation": [
+          "Isaac Sim"
+        ]
+      },
+      "activity_score": 40.0,
+      "key_sentences": [
+        "GR00T-VisualSim2Real: Open-source sim-to-real framework for humanoid visual loco-manipulation. Train in simulation, deploy zero-shot on real robots with RGB + proprioception for tasks like pick-and-place and door opening.",
+        "<div align=\"center\">",
+        "<td align=\"center\" valign=\"top\" width=\"50%\">"
+      ],
+      "category": {
+        "category_id": "tools_sim",
+        "category_name": "🔧 工具/仿真平台",
+        "confidence": 1.0,
+        "matched_keywords": [
+          "framework",
+          "simulation",
+          "isaac"
+        ]
+      },
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "694345928": {
       "repo_id": 694345928,
@@ -7908,56 +7993,12 @@
         "category_name": "🦾 机械臂/运动控制",
         "confidence": 0.8,
         "matched_keywords": [
-          "gripper",
-          "manipulator"
+          "manipulator",
+          "gripper"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
-    },
-    "1204330026": {
-      "repo_id": 1204330026,
-      "full_name": "NVlabs/GR00T-VisualSim2Real",
-      "name": "GR00T-VisualSim2Real",
-      "owner": "NVlabs",
-      "html_url": "https://github.com/NVlabs/GR00T-VisualSim2Real",
-      "description": "GR00T-VisualSim2Real: Open-source sim-to-real framework for humanoid visual loco-manipulation. Train in simulation, deploy zero-shot on real robots with RGB + proprioception for tasks like pick-and-place and door opening.",
-      "stars": 281,
-      "forks": 23,
-      "open_issues": 3,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-04-07T23:03:57Z",
-      "updated_at": "2026-05-30T06:11:42Z",
-      "pushed_at": "2026-04-20T17:32:28Z",
-      "license": "Apache-2.0",
-      "homepage": null,
-      "readme_length": 11356,
-      "has_installation_guide": true,
-      "has_demo": true,
-      "detected_tech": {
-        "simulation": [
-          "Isaac Sim"
-        ]
-      },
-      "activity_score": 40.0,
-      "key_sentences": [
-        "GR00T-VisualSim2Real: Open-source sim-to-real framework for humanoid visual loco-manipulation. Train in simulation, deploy zero-shot on real robots with RGB + proprioception for tasks like pick-and-place and door opening.",
-        "<div align=\"center\">",
-        "<td align=\"center\" valign=\"top\" width=\"50%\">"
-      ],
-      "category": {
-        "category_id": "tools_sim",
-        "category_name": "🔧 工具/仿真平台",
-        "confidence": 1.0,
-        "matched_keywords": [
-          "framework",
-          "simulation",
-          "isaac"
-        ]
-      },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "900659795": {
       "repo_id": 900659795,
@@ -7982,8 +8023,8 @@
       "detected_tech": {
         "simulation": [
           "Mujoco",
-          "Isaac Gym",
-          "Webots"
+          "Webots",
+          "Isaac Gym"
         ],
         "ml_framework": [
           "PyTorch"
@@ -8000,13 +8041,13 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
-          "framework",
           "mujoco",
+          "framework",
           "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "138857480": {
       "repo_id": 138857480,
@@ -8054,12 +8095,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.8,
         "matched_keywords": [
-          "ROS",
-          "gazebo"
+          "gazebo",
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "919722438": {
       "repo_id": 919722438,
@@ -8100,8 +8141,8 @@
           "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "139948822": {
       "repo_id": 139948822,
@@ -8138,8 +8179,8 @@
           "mobile robot"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "105388847": {
       "repo_id": 105388847,
@@ -8148,7 +8189,7 @@
       "owner": "merschformann",
       "html_url": "https://github.com/merschformann/RAWSim-O",
       "description": "A simulation framework for Robotic Mobile Fulfillment Systems",
-      "stars": 251,
+      "stars": 252,
       "forks": 75,
       "open_issues": 2,
       "language": "C#",
@@ -8164,7 +8205,7 @@
         "warehouse"
       ],
       "created_at": "2017-09-30T17:49:04Z",
-      "updated_at": "2026-05-31T03:39:24Z",
+      "updated_at": "2026-06-01T16:14:25Z",
       "pushed_at": "2025-01-21T17:48:41Z",
       "license": "GPL-3.0",
       "homepage": "",
@@ -8187,8 +8228,8 @@
           "simulation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "553482246": {
       "repo_id": 553482246,
@@ -8233,8 +8274,8 @@
           "ros"
         ],
         "ros_distro": [
-          "Humble",
-          "Jazzy"
+          "Jazzy",
+          "Humble"
         ]
       },
       "activity_score": 40.0,
@@ -8251,53 +8292,8 @@
           "mobile robot"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
-    },
-    "787217660": {
-      "repo_id": 787217660,
-      "full_name": "Alexhuge1/Alexbot",
-      "name": "Alexbot",
-      "owner": "Alexhuge1",
-      "html_url": "https://github.com/Alexhuge1/Alexbot",
-      "description": "一个全开源低成本的双足机器人（2万元（$3000））A Fully Opensourced Humanoid Robot with only $3000",
-      "stars": 222,
-      "forks": 33,
-      "open_issues": 6,
-      "language": "C",
-      "topics": [],
-      "created_at": "2024-04-16T05:38:27Z",
-      "updated_at": "2026-06-01T02:03:52Z",
-      "pushed_at": "2025-03-18T02:40:31Z",
-      "license": null,
-      "homepage": "",
-      "readme_length": 5191,
-      "has_installation_guide": false,
-      "has_demo": false,
-      "detected_tech": {
-        "simulation": [
-          "Mujoco"
-        ],
-        "hardware": [
-          "Jetson"
-        ]
-      },
-      "activity_score": 25.0,
-      "key_sentences": [
-        "一个全开源低成本的双足机器人（2万元（$3000））A Fully Opensourced Humanoid Robot with only $3000",
-        "latest version in https://github.com/Alexhuge1/Alexbotmini_hardware",
-        "建议直接使用第二代机器人，我们第三代在研发中，用的也是dm电机"
-      ],
-      "category": {
-        "category_id": "humanoid",
-        "category_name": "🚶 人形/服务机器人",
-        "confidence": 0.4,
-        "matched_keywords": [
-          "humanoid"
-        ]
-      },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "198504140": {
       "repo_id": 198504140,
@@ -8344,12 +8340,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "694298494": {
       "repo_id": 694298494,
@@ -8402,12 +8398,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "440602515": {
       "repo_id": 440602515,
@@ -8451,13 +8447,13 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 1.0,
         "matched_keywords": [
+          "drone",
           "autonomous",
-          "quadcopter",
-          "drone"
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "630346540": {
       "repo_id": 630346540,
@@ -8501,9 +8497,9 @@
       "has_demo": false,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "simulation": [
@@ -8524,12 +8520,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.8,
         "matched_keywords": [
-          "ROS",
-          "gazebo"
+          "gazebo",
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "404291450": {
       "repo_id": 404291450,
@@ -8558,9 +8554,9 @@
       "has_demo": false,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "simulation": [
@@ -8581,14 +8577,14 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
-          "ROS",
-          "simulation",
           "gazebo",
-          "simulator"
+          "simulator",
+          "simulation",
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "50266966": {
       "repo_id": 50266966,
@@ -8634,12 +8630,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "65696330": {
       "repo_id": 65696330,
@@ -8673,8 +8669,8 @@
       "has_demo": true,
       "detected_tech": {
         "hardware": [
-          "Raspberry Pi",
-          "Arduino"
+          "Arduino",
+          "Raspberry Pi"
         ]
       },
       "activity_score": 35.0,
@@ -8688,13 +8684,13 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 1.0,
         "matched_keywords": [
+          "drone",
           "autonomous",
-          "quadcopter",
-          "drone"
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1142757299": {
       "repo_id": 1142757299,
@@ -8703,7 +8699,7 @@
       "owner": "sergiovirahonda",
       "html_url": "https://github.com/sergiovirahonda/cortex",
       "description": "ESP32-S3 flight controller for DIY quadcopters: real-time PID stabilization, DShot ESCs, nRF24 radio, telemetry downlink. Pairs with Synapse TX.",
-      "stars": 133,
+      "stars": 134,
       "forks": 22,
       "open_issues": 0,
       "language": "C++",
@@ -8714,7 +8710,7 @@
         "quadcopter"
       ],
       "created_at": "2026-01-26T20:22:22Z",
-      "updated_at": "2026-05-29T04:40:14Z",
+      "updated_at": "2026-06-01T17:45:01Z",
       "pushed_at": "2026-03-11T20:11:43Z",
       "license": "MIT",
       "homepage": "",
@@ -8740,12 +8736,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "417165996": {
       "repo_id": 417165996,
@@ -8789,12 +8785,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "200595424": {
       "repo_id": 200595424,
@@ -8828,12 +8824,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1175931144": {
       "repo_id": 1175931144,
@@ -8867,12 +8863,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.6,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "269676752": {
       "repo_id": 269676752,
@@ -8917,9 +8913,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "ros_distro": [
@@ -8943,12 +8939,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.8,
         "matched_keywords": [
-          "ROS",
-          "gazebo"
+          "gazebo",
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "829008898": {
       "repo_id": 829008898,
@@ -8990,8 +8986,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "913849520": {
       "repo_id": 913849520,
@@ -9032,12 +9028,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "851481438": {
       "repo_id": 851481438,
@@ -9070,9 +9066,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "simulation": [
@@ -9090,13 +9086,13 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
+          "gazebo",
           "ROS",
-          "simulation",
-          "gazebo"
+          "simulation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "609417196": {
       "repo_id": 609417196,
@@ -9138,12 +9134,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "674555429": {
       "repo_id": 674555429,
@@ -9181,9 +9177,9 @@
       "has_demo": false,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "ros_distro": [
@@ -9212,8 +9208,8 @@
           "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1019806364": {
       "repo_id": 1019806364,
@@ -9222,7 +9218,7 @@
       "owner": "I-M-Robotics-Lab",
       "html_url": "https://github.com/I-M-Robotics-Lab/STM32-Quadcopter",
       "description": "Quadcopter design based on STM32F411CEU Blackpill flight controller. Compatible with INAV 6.0 firmware.",
-      "stars": 40,
+      "stars": 41,
       "forks": 6,
       "open_issues": 2,
       "language": "C",
@@ -9235,7 +9231,7 @@
         "stm32"
       ],
       "created_at": "2025-07-14T22:54:51Z",
-      "updated_at": "2026-05-18T11:15:27Z",
+      "updated_at": "2026-06-01T23:39:05Z",
       "pushed_at": "2025-11-13T09:41:11Z",
       "license": "GPL-3.0",
       "homepage": "",
@@ -9244,8 +9240,8 @@
       "has_demo": true,
       "detected_tech": {
         "hardware": [
-          "STM32",
-          "Arduino"
+          "Arduino",
+          "STM32"
         ]
       },
       "activity_score": 15.0,
@@ -9259,12 +9255,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "612181050": {
       "repo_id": 612181050,
@@ -9298,12 +9294,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.6,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "848309512": {
       "repo_id": 848309512,
@@ -9345,12 +9341,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "995548058": {
       "repo_id": 995548058,
@@ -9397,12 +9393,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "924934320": {
       "repo_id": 924934320,
@@ -9426,9 +9422,9 @@
       "has_demo": false,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ]
       },
@@ -9447,8 +9443,8 @@
           "simulation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1141848239": {
       "repo_id": 1141848239,
@@ -9494,8 +9490,8 @@
           "simulation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "570775076": {
       "repo_id": 570775076,
@@ -9549,8 +9545,8 @@
           "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1227219006": {
       "repo_id": 1227219006,
@@ -9579,8 +9575,8 @@
       "has_demo": true,
       "detected_tech": {
         "hardware": [
-          "ESP32",
-          "Arduino"
+          "Arduino",
+          "ESP32"
         ],
         "control": [
           "PID"
@@ -9597,12 +9593,12 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 0.8,
         "matched_keywords": [
-          "quadcopter",
-          "drone"
+          "drone",
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "683333359": {
       "repo_id": 683333359,
@@ -9636,13 +9632,13 @@
         "category_name": "🚗 移动机器人/自动驾驶",
         "confidence": 1.0,
         "matched_keywords": [
+          "drone",
           "autonomous",
-          "quadcopter",
-          "drone"
+          "quadcopter"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "776046804": {
       "repo_id": 776046804,
@@ -9666,9 +9662,9 @@
       "has_demo": true,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "ros_distro": [
@@ -9694,8 +9690,8 @@
           "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1132067377": {
       "repo_id": 1132067377,
@@ -9737,8 +9733,8 @@
           "isaac"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "940890685": {
       "repo_id": 940890685,
@@ -9786,12 +9782,12 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 0.8,
         "matched_keywords": [
-          "ROS",
-          "gazebo"
+          "gazebo",
+          "ROS"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1070867157": {
       "repo_id": 1070867157,
@@ -9819,17 +9815,17 @@
       "has_demo": false,
       "detected_tech": {
         "ros": [
-          "ROS",
-          "ros2",
           "ROS2",
+          "ros2",
+          "ROS",
           "ros"
         ],
         "ros_distro": [
           "Iron"
         ],
         "hardware": [
-          "Raspberry Pi",
-          "Arduino"
+          "Arduino",
+          "Raspberry Pi"
         ],
         "control": [
           "PID"
@@ -9846,13 +9842,13 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
+          "ROS",
           "framework",
-          "simulation",
-          "ROS"
+          "simulation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "523695056": {
       "repo_id": 523695056,
@@ -9907,8 +9903,52 @@
           "manipulator"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
+    },
+    "1180806694": {
+      "repo_id": 1180806694,
+      "full_name": "Daevin04/SO101-Robotic-Arm-RL",
+      "name": "SO101-Robotic-Arm-RL",
+      "owner": "Daevin04",
+      "html_url": "https://github.com/Daevin04/SO101-Robotic-Arm-RL",
+      "description": "Curriculum reinforcement learning framework for training a 6-DOF SO-101 robotic arm to grasp and manipulate objects using MuJoCo simulation and SAC.",
+      "stars": 6,
+      "forks": 0,
+      "open_issues": 3,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-03-13T12:37:38Z",
+      "updated_at": "2026-06-01T13:27:48Z",
+      "pushed_at": "2026-04-01T19:47:37Z",
+      "license": "MIT",
+      "homepage": null,
+      "readme_length": 7460,
+      "has_installation_guide": true,
+      "has_demo": true,
+      "detected_tech": {
+        "simulation": [
+          "Mujoco"
+        ]
+      },
+      "activity_score": 25.0,
+      "key_sentences": [
+        "Curriculum reinforcement learning framework for training a 6-DOF SO-101 robotic arm to grasp and manipulate objects using MuJoCo simulation and SAC.",
+        "A reinforcement learning framework for training a 6-DOF robotic arm to perform object manipulation tasks using curriculum learning and stage-based training in MuJoCo simulation.",
+        "This project implements a **curriculum learning approach** to train a simulated robotic arm (SO-101) to grasp and manipulate objects. Rather than learning the complete task at once, the agent learns through progressive stages:"
+      ],
+      "category": {
+        "category_id": "tools_sim",
+        "category_name": "🔧 工具/仿真平台",
+        "confidence": 1.0,
+        "matched_keywords": [
+          "mujoco",
+          "framework",
+          "simulation"
+        ]
+      },
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1011255432": {
       "repo_id": 1011255432,
@@ -9949,8 +9989,8 @@
           "simulation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1120932032": {
       "repo_id": 1120932032,
@@ -9989,56 +10029,12 @@
         "category_name": "🦾 机械臂/运动控制",
         "confidence": 0.8,
         "matched_keywords": [
-          "manipulator",
-          "kinematics"
+          "kinematics",
+          "manipulator"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
-    },
-    "1180806694": {
-      "repo_id": 1180806694,
-      "full_name": "Daevin04/SO101-Robotic-Arm-RL",
-      "name": "SO101-Robotic-Arm-RL",
-      "owner": "Daevin04",
-      "html_url": "https://github.com/Daevin04/SO101-Robotic-Arm-RL",
-      "description": "Curriculum reinforcement learning framework for training a 6-DOF SO-101 robotic arm to grasp and manipulate objects using MuJoCo simulation and SAC.",
-      "stars": 5,
-      "forks": 0,
-      "open_issues": 3,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-03-13T12:37:38Z",
-      "updated_at": "2026-05-11T14:23:36Z",
-      "pushed_at": "2026-04-01T19:47:37Z",
-      "license": "MIT",
-      "homepage": null,
-      "readme_length": 7460,
-      "has_installation_guide": true,
-      "has_demo": true,
-      "detected_tech": {
-        "simulation": [
-          "Mujoco"
-        ]
-      },
-      "activity_score": 25.0,
-      "key_sentences": [
-        "Curriculum reinforcement learning framework for training a 6-DOF SO-101 robotic arm to grasp and manipulate objects using MuJoCo simulation and SAC.",
-        "A reinforcement learning framework for training a 6-DOF robotic arm to perform object manipulation tasks using curriculum learning and stage-based training in MuJoCo simulation.",
-        "This project implements a **curriculum learning approach** to train a simulated robotic arm (SO-101) to grasp and manipulate objects. Rather than learning the complete task at once, the agent learns through progressive stages:"
-      ],
-      "category": {
-        "category_id": "tools_sim",
-        "category_name": "🔧 工具/仿真平台",
-        "confidence": 1.0,
-        "matched_keywords": [
-          "framework",
-          "simulation",
-          "mujoco"
-        ]
-      },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "812866235": {
       "repo_id": 812866235,
@@ -10096,12 +10092,12 @@
         "category_name": "🦾 机械臂/运动控制",
         "confidence": 0.8,
         "matched_keywords": [
-          "robotic arm",
-          "manipulator"
+          "manipulator",
+          "robotic arm"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1215572043": {
       "repo_id": 1215572043,
@@ -10139,13 +10135,13 @@
         "category_name": "🔧 工具/仿真平台",
         "confidence": 1.0,
         "matched_keywords": [
+          "mujoco",
           "framework",
-          "simulation",
-          "mujoco"
+          "simulation"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1216842271": {
       "repo_id": 1216842271,
@@ -10182,8 +10178,8 @@
           "manipulator"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1101897394": {
       "repo_id": 1101897394,
@@ -10220,8 +10216,8 @@
           "manipulator"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1084180226": {
       "repo_id": 1084180226,
@@ -10263,12 +10259,12 @@
         "category_name": "🦾 机械臂/运动控制",
         "confidence": 0.8,
         "matched_keywords": [
-          "robotic arm",
-          "manipulator"
+          "manipulator",
+          "robotic arm"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     },
     "1123767809": {
       "repo_id": 1123767809,
@@ -10305,11 +10301,11 @@
           "manipulator"
         ]
       },
-      "first_seen": "2026-06-01T02:07:40.401407",
-      "last_seen": "2026-06-01T02:07:40.401407"
+      "first_seen": "2026-06-02T02:09:22.648619",
+      "last_seen": "2026-06-02T02:09:22.648619"
     }
   },
-  "last_updated": "2026-06-01 02:07 UTC",
+  "last_updated": "2026-06-02 02:09 UTC",
   "theme_id": "robotics",
   "project_count": 200
 }
